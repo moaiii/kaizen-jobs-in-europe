@@ -1,0 +1,2687 @@
+[
+   {
+      "job": "Accountant",
+
+      "countries": [
+          {
+              "country": "Spain",
+              "salary": 23108,
+              "score": 3.71
+          },
+          {
+              "country": "Sweden",
+              "salary": 42936,
+              "score": 6.98
+          },
+          {
+              "country": "Cyprus",
+              "salary": 19787,
+              "score": 2.36
+          },
+          {
+              "country": "France",
+              "salary": 28283,
+              "score": 6.09
+          },
+          {
+              "country": "Germany",
+              "salary": 20163,
+              "score": 5.67
+          },
+          {
+              "country": "Italy",
+              "salary": 21339,
+              "score": 4.08
+          },
+          {
+              "country": "United Kingdom",
+              "salary": 51072,
+              "score": 8.36
+          },
+          {
+              "country": "Greece",
+              "salary": 16279,
+              "score": 2.06
+          },
+          {
+              "country": "Portugal",
+              "salary": 10509,
+              "score": 2.17
+          },
+          {
+              "country": "Republic of Ireland",
+              "salary": 31473,
+              "score": 4.21
+          },
+          {
+              "country": "Netherlands",
+              "salary": 30948,
+              "score": 5.31
+          }
+      ]
+   },
+   {
+      "job": "Architect",
+
+      "countries": [
+          {
+              "country": "Spain",
+              "salary": 16575,
+              "score": 2.96
+          },
+          {
+              "country": "Sweden",
+              "salary": 43128,
+              "score": 8.15
+          },
+          {
+              "country": "Cyprus",
+              "salary": 16013,
+              "score": 1.78
+          },
+          {
+              "country": "France",
+              "salary": 28479,
+              "score": 6.48
+          },
+          {
+              "country": "Germany",
+              "salary": 24205,
+              "score": 6.11
+          },
+          {
+              "country": "Italy",
+              "salary": 20270,
+              "score": 3.93
+          },
+          {
+              "country": "United Kingdom",
+              "salary": 42984,
+              "score": 8.91
+          },
+          {
+              "country": "Greece",
+              "salary": 15123,
+              "score": 1.63
+          },
+          {
+              "country": "Portugal",
+              "salary": 21735,
+              "score": 3.02
+          },
+          {
+              "country": "Republic of Ireland",
+              "salary": 27909,
+              "score": 4.28
+          },
+          {
+              "country": "Netherlands",
+              "salary": 21475,
+              "score": 4.59
+          }
+      ]
+   },
+   {
+      "job": "Bar Staff",
+
+      "countries": [
+          {
+              "country": "Spain",
+              "salary": 13455,
+              "score": 3.17
+          },
+          {
+              "country": "Sweden",
+              "salary": 27286,
+              "score": 6.81
+          },
+          {
+              "country": "Cyprus",
+              "salary": 10745,
+              "score": 1.70
+          },
+          {
+              "country": "France",
+              "salary": 23859,
+              "score": 6.56
+          },
+          {
+              "country": "Germany",
+              "salary": 18718,
+              "score": 6.05
+          },
+          {
+              "country": "Italy",
+              "salary": 11561,
+              "score": 3.41
+          },
+          {
+              "country": "United Kingdom",
+              "salary": 19104,
+              "score": 6.48
+          },
+          {
+              "country": "Greece",
+              "salary": 10503,
+              "score": 1.63
+          },
+          {
+              "country": "Portugal",
+              "salary": 11541,
+              "score": 2.31
+          },
+          {
+              "country": "Republic of Ireland",
+              "salary": 19826,
+              "score": 3.89
+          },
+          {
+              "country": "Netherlands",
+              "salary": 16238,
+              "score": 4.55
+          }
+      ]
+   },
+   {
+      "job": "Bus Driver",
+
+      "countries": [
+          {
+              "country": "Spain",
+              "salary": 20610,
+              "score": 4.09
+          },
+          {
+              "country": "Sweden",
+              "salary": 30812,
+              "score": 6.78
+          },
+          {
+              "country": "Cyprus",
+              "salary": 13255,
+              "score": 2.33
+          },
+          {
+              "country": "France",
+              "salary": 13306,
+              "score": 5.43
+          },
+          {
+              "country": "Germany",
+              "salary": 19944,
+              "score": 6.20
+          },
+          {
+              "country": "Italy",
+              "salary": 14565,
+              "score": 4.05
+          },
+          {
+              "country": "United Kingdom",
+              "salary": 23249,
+              "score": 6.88
+          },
+          {
+              "country": "Greece",
+              "salary": 8064,
+              "score": 1.83
+          },
+          {
+              "country": "Portugal",
+              "salary": 5836,
+              "score": 2.17
+          },
+          {
+              "country": "Republic of Ireland",
+              "salary": 27635,
+              "score": 4.59
+          },
+          {
+              "country": "Netherlands",
+              "salary": 15120,
+              "score": 4.61
+          }
+      ]
+   },
+   {
+      "job": "Carpenter",
+
+      "countries": [
+          {
+              "country": "Spain",
+              "salary": 23484,
+              "score": 3.91
+          },
+          {
+              "country": "Sweden",
+              "salary": 35263,
+              "score": 6.71
+          },
+          {
+              "country": "Cyprus",
+              "salary": 12065,
+              "score": 1.82
+          },
+          {
+              "country": "France",
+              "salary": 15711,
+              "score": 5.23
+          },
+          {
+              "country": "Germany",
+              "salary": 19655,
+              "score": 5.75
+          },
+          {
+              "country": "Italy",
+              "salary": 17791,
+              "score": 3.92
+          },
+          {
+              "country": "United Kingdom",
+              "salary": 25238,
+              "score": 6.62
+          },
+          {
+              "country": "Greece",
+              "salary": 11492,
+              "score": 1.73
+          },
+          {
+              "country": "Portugal",
+              "salary": 10261,
+              "score": 2.17
+          },
+          {
+              "country": "Republic of Ireland",
+              "salary": 26251,
+              "score": 4.02
+          },
+          {
+              "country": "Netherlands",
+              "salary": 20656,
+              "score": 4.67
+          }
+      ]
+   },
+   {
+      "job": "Chef",
+
+      "countries": [
+          {
+              "country": "Spain",
+              "salary": 20228,
+              "score": 3.45
+          },
+          {
+              "country": "Sweden",
+              "salary": 36176,
+              "score": 6.75
+          },
+          {
+              "country": "Cyprus",
+              "salary": 13893,
+              "score": 1.74
+          },
+          {
+              "country": "France",
+              "salary": 18396,
+              "score": 5.27
+          },
+          {
+              "country": "Germany",
+              "salary": 16128,
+              "score": 5.23
+          },
+          {
+              "country": "Italy",
+              "salary": 19809,
+              "score": 3.91
+          },
+          {
+              "country": "United Kingdom",
+              "salary": 17531,
+              "score": 5.75
+          },
+          {
+              "country": "Greece",
+              "salary": 13104,
+              "score": 1.63
+          },
+          {
+              "country": "Portugal",
+              "salary": 15120,
+              "score": 2.36
+          },
+          {
+              "country": "Republic of Ireland",
+              "salary": 21967,
+              "score": 3.48
+          },
+          {
+              "country": "Netherlands",
+              "salary": 18216,
+              "score": 4.26
+          }
+      ]
+   },
+   {
+      "job": "Childcare",
+
+      "countries": [
+          {
+              "country": "Spain",
+              "salary": 12467,
+              "score": 3.17
+          },
+          {
+              "country": "Sweden",
+              "salary": 31467,
+              "score": 6.76
+          },
+          {
+              "country": "Cyprus",
+              "salary": 10624,
+              "score": 1.89
+          },
+          {
+              "country": "France",
+              "salary": 24403,
+              "score": 6.29
+          },
+          {
+              "country": "Germany",
+              "salary": 29191,
+              "score": 6.93
+          },
+          {
+              "country": "Italy",
+              "salary": 13950,
+              "score": 3.81
+          },
+          {
+              "country": "United Kingdom",
+              "salary": 19584,
+              "score": 6.40
+          },
+          {
+              "country": "Greece",
+              "salary": 11944,
+              "score": 1.98
+          },
+          {
+              "country": "Portugal",
+              "salary": 8235,
+              "score": 2.17
+          },
+          {
+              "country": "Republic of Ireland",
+              "salary": 17694,
+              "score": 3.53
+          },
+          {
+              "country": "Netherlands",
+              "salary": 20835,
+              "score": 4.97
+          }
+      ]
+   },
+   {
+      "job": "Cleaner",
+
+      "countries": [
+          {
+              "country": "Spain",
+              "salary": 15388,
+              "score": 3.83
+          },
+          {
+              "country": "Sweden",
+              "salary": 19070,
+              "score": 5.99
+          },
+          {
+              "country": "Cyprus",
+              "salary": 5352,
+              "score": 1.69
+          },
+          {
+              "country": "France",
+              "salary": 10997,
+              "score": 5.37
+          },
+          {
+              "country": "Germany",
+              "salary": 11944,
+              "score": 5.65
+          },
+          {
+              "country": "Italy",
+              "salary": 10291,
+              "score": 3.80
+          },
+          {
+              "country": "United Kingdom",
+              "salary": 16446,
+              "score": 6.49
+          },
+          {
+              "country": "Greece",
+              "salary": 10382,
+              "score": 2.17
+          },
+          {
+              "country": "Portugal",
+              "salary": 5120,
+              "score": 2.17
+          },
+          {
+              "country": "Republic of Ireland",
+              "salary": 18528,
+              "score": 4.02
+          },
+          {
+              "country": "Netherlands",
+              "salary": 17105,
+              "score": 5.01
+          }
+      ]
+   },
+   {
+      "job": "Customer Service",
+
+      "countries": [
+          {
+              "country": "Spain",
+              "salary": 17000,
+              "score": 3.43
+          },
+          {
+              "country": "Sweden",
+              "salary": 22717,
+              "score": 5.96
+          },
+          {
+              "country": "Cyprus",
+              "salary": 14038,
+              "score": 1.93
+          },
+          {
+              "country": "France",
+              "salary": 27720,
+              "score": 6.83
+          },
+          {
+              "country": "Germany",
+              "salary": 20149,
+              "score": 6.02
+          },
+          {
+              "country": "Italy",
+              "salary": 15330,
+              "score": 3.71
+          },
+          {
+              "country": "United Kingdom",
+              "salary": 21795,
+              "score": 6.62
+          },
+          {
+              "country": "Greece",
+              "salary": 12029,
+              "score": 1.63
+          },
+          {
+              "country": "Portugal",
+              "salary": 16947,
+              "score": 2.82
+          },
+          {
+              "country": "Republic of Ireland",
+              "salary": 20189,
+              "score": 3.72
+          },
+          {
+              "country": "Netherlands",
+              "salary": 20427,
+              "score": 4.89
+          }
+      ]
+   },
+   {
+      "job": "Dental Nurse",
+
+      "countries": [
+          {
+              "country": "Spain",
+              "salary": 17101,
+              "score": 3.24
+          },
+          {
+              "country": "Sweden",
+              "salary": 34692,
+              "score": 6.26
+          },
+          {
+              "country": "Cyprus",
+              "salary": 30675,
+              "score": 3.09
+          },
+          {
+              "country": "France",
+              "salary": 18634,
+              "score": 5.34
+          },
+          {
+              "country": "Germany",
+              "salary": 24956,
+              "score": 5.97
+          },
+          {
+              "country": "Italy",
+              "salary": 26964,
+              "score": 4.44
+          },
+          {
+              "country": "United Kingdom",
+              "salary": 15357,
+              "score": 5.68
+          },
+          {
+              "country": "Greece",
+              "salary": 11301,
+              "score": 1.69
+          },
+          {
+              "country": "Portugal",
+              "salary": 10365,
+              "score": 2.17
+          },
+          {
+              "country": "Republic of Ireland",
+              "salary": 20507,
+              "score": 3.35
+          },
+          {
+              "country": "Netherlands",
+              "salary": 18503,
+              "score": 4.35
+          }
+      ]
+   },
+   {
+      "job": "Dentist",
+
+      "countries": [
+          {
+              "country": "Spain",
+              "salary": 27764,
+              "score": 3.65
+          },
+          {
+              "country": "Sweden",
+              "salary": 41005,
+              "score": 6.20
+          },
+          {
+              "country": "Cyprus",
+              "salary": 12600,
+              "score": 1.66
+          },
+          {
+              "country": "France",
+              "salary": 74673,
+              "score": 8.36
+          },
+          {
+              "country": "Germany",
+              "salary": 31124,
+              "score": 6.02
+          },
+          {
+              "country": "Italy",
+              "salary": 45387,
+              "score": 5.17
+          },
+          {
+              "country": "United Kingdom",
+              "salary": 44979,
+              "score": 7.20
+          },
+          {
+              "country": "Greece",
+              "salary": 47671,
+              "score": 3.66
+          },
+          {
+              "country": "Portugal",
+              "salary": 22770,
+              "score": 2.76
+          },
+          {
+              "country": "Republic of Ireland",
+              "salary": 49952,
+              "score": 4.80
+          },
+          {
+              "country": "Netherlands",
+              "salary": 50070,
+              "score": 5.95
+          }
+      ]
+   },
+   {
+      "job": "Designer",
+
+      "countries": [
+          {
+              "country": "Spain",
+              "salary": 16150,
+              "score": 3.12
+          },
+          {
+              "country": "Sweden",
+              "salary": 32616,
+              "score": 6.30
+          },
+          {
+              "country": "Cyprus",
+              "salary": 15523,
+              "score": 1.97
+          },
+          {
+              "country": "France",
+              "salary": 23390,
+              "score": 5.73
+          },
+          {
+              "country": "Germany",
+              "salary": 29193,
+              "score": 6.40
+          },
+          {
+              "country": "Italy",
+              "salary": 17591,
+              "score": 3.75
+          },
+          {
+              "country": "United Kingdom",
+              "salary": 29863,
+              "score": 6.84
+          },
+          {
+              "country": "Greece",
+              "salary": 18384,
+              "score": 2.17
+          },
+          {
+              "country": "Portugal",
+              "salary": 11973,
+              "score": 2.17
+          },
+          {
+              "country": "Republic of Ireland",
+              "salary": 22837,
+              "score": 3.56
+          },
+          {
+              "country": "Netherlands",
+              "salary": 25976,
+              "score": 4.96
+          }
+      ]
+   },
+   {
+      "job": "Doctor",
+
+      "countries": [
+          {
+              "country": "Spain",
+              "salary": 41646,
+              "score": 3.71
+          },
+          {
+              "country": "Sweden",
+              "salary": 48873,
+              "score": 5.74
+          },
+          {
+              "country": "Cyprus",
+              "salary": 39596,
+              "score": 2.54
+          },
+          {
+              "country": "France",
+              "salary": 120750,
+              "score": 8.36
+          },
+          {
+              "country": "Germany",
+              "salary": 39805,
+              "score": 5.82
+          },
+          {
+              "country": "Italy",
+              "salary": 56176,
+              "score": 4.70
+          },
+          {
+              "country": "United Kingdom",
+              "salary": 67500,
+              "score": 7.14
+          },
+          {
+              "country": "Greece",
+              "salary": 47557,
+              "score": 2.77
+          },
+          {
+              "country": "Portugal",
+              "salary": 13588,
+              "score": 2.17
+          },
+          {
+              "country": "Republic of Ireland",
+              "salary": 49896,
+              "score": 3.86
+          },
+          {
+              "country": "Netherlands",
+              "salary": 62406,
+              "score": 5.42
+          }
+      ]
+   },
+   {
+      "job": "Electrical Engineer",
+
+      "countries": [
+          {
+              "country": "Spain",
+              "salary": 27145,
+              "score": 3.66
+          },
+          {
+              "country": "Sweden",
+              "salary": 40864,
+              "score": 6.43
+          },
+          {
+              "country": "Cyprus",
+              "salary": 20530,
+              "score": 2.08
+          },
+          {
+              "country": "France",
+              "salary": 33937,
+              "score": 6.14
+          },
+          {
+              "country": "Germany",
+              "salary": 39957,
+              "score": 6.75
+          },
+          {
+              "country": "Italy",
+              "salary": 25056,
+              "score": 4.01
+          },
+          {
+              "country": "United Kingdom",
+              "salary": 44996,
+              "score": 7.50
+          },
+          {
+              "country": "Greece",
+              "salary": 22723,
+              "score": 2.20
+          },
+          {
+              "country": "Portugal",
+              "salary": 14668,
+              "score": 2.17
+          },
+          {
+              "country": "Republic of Ireland",
+              "salary": 31718,
+              "score": 3.86
+          },
+          {
+              "country": "Netherlands",
+              "salary": 33166,
+              "score": 5.10
+          }
+      ]
+   },
+   {
+      "job": "Electrician",
+
+      "countries": [
+          {
+              "country": "Spain",
+              "salary": 20940,
+              "score": 3.52
+          },
+          {
+              "country": "Sweden",
+              "salary": 30355,
+              "score": 6.10
+          },
+          {
+              "country": "Cyprus",
+              "salary": 12096,
+              "score": 1.66
+          },
+          {
+              "country": "France",
+              "salary": 33620,
+              "score": 6.59
+          },
+          {
+              "country": "Germany",
+              "salary": 23450,
+              "score": 5.91
+          },
+          {
+              "country": "Italy",
+              "salary": 19821,
+              "score": 3.93
+          },
+          {
+              "country": "United Kingdom",
+              "salary": 30852,
+              "score": 6.92
+          },
+          {
+              "country": "Greece",
+              "salary": 20477,
+              "score": 2.34
+          },
+          {
+              "country": "Portugal",
+              "salary": 14253,
+              "score": 2.35
+          },
+          {
+              "country": "Republic of Ireland",
+              "salary": 31104,
+              "score": 4.25
+          },
+          {
+              "country": "Netherlands",
+              "salary": 33744,
+              "score": 5.61
+          }
+      ]
+   },
+   {
+      "job": "Engineer",
+
+      "countries": [
+          {
+              "country": "Spain",
+              "salary": 24011,
+              "score": 3.37
+          },
+          {
+              "country": "Sweden",
+              "salary": 38515,
+              "score": 6.23
+          },
+          {
+              "country": "Cyprus",
+              "salary": 20543,
+              "score": 2.01
+          },
+          {
+              "country": "France",
+              "salary": 31855,
+              "score": 5.94
+          },
+          {
+              "country": "Germany",
+              "salary": 37251,
+              "score": 6.52
+          },
+          {
+              "country": "Italy",
+              "salary": 24135,
+              "score": 3.88
+          },
+          {
+              "country": "United Kingdom",
+              "salary": 41966,
+              "score": 7.25
+          },
+          {
+              "country": "Greece",
+              "salary": 24538,
+              "score": 2.27
+          },
+          {
+              "country": "Portugal",
+              "salary": 15904,
+              "score": 2.17
+          },
+          {
+              "country": "Republic of Ireland",
+              "salary": 28717,
+              "score": 3.59
+          },
+          {
+              "country": "Netherlands",
+              "salary": 30389,
+              "score": 4.85
+          }
+      ]
+   },
+   {
+      "job": "Estate Agent",
+
+      "countries": [
+          {
+              "country": "Spain",
+              "salary": 29750,
+              "score": 4.21
+          },
+          {
+              "country": "Sweden",
+              "salary": 55348,
+              "score": 8.14
+          },
+          {
+              "country": "Cyprus",
+              "salary": 19313,
+              "score": 2.22
+          },
+          {
+              "country": "France",
+              "salary": 17529,
+              "score": 5.17
+          },
+          {
+              "country": "Germany",
+              "salary": 20160,
+              "score": 5.57
+          },
+          {
+              "country": "Italy",
+              "salary": 24061,
+              "score": 4.23
+          },
+          {
+              "country": "United Kingdom",
+              "salary": 37015,
+              "score": 7.38
+          },
+          {
+              "country": "Greece",
+              "salary": 12660,
+              "score": 1.63
+          },
+          {
+              "country": "Portugal",
+              "salary": 15382,
+              "score": 2.40
+          },
+          {
+              "country": "Republic of Ireland",
+              "salary": 28613,
+              "score": 3.98
+          },
+          {
+              "country": "Netherlands",
+              "salary": 49514,
+              "score": 6.88
+          }
+      ]
+   },
+   {
+      "job": "Fireman",
+
+      "countries": [
+          {
+              "country": "Spain",
+              "salary": 10456,
+              "score": 3.08
+          },
+          {
+              "country": "Sweden",
+              "salary": 34236,
+              "score": 6.37
+          },
+          {
+              "country": "Cyprus",
+              "salary": 18355,
+              "score": 2.47
+          },
+          {
+              "country": "France",
+              "salary": 20462,
+              "score": 5.70
+          },
+          {
+              "country": "Germany",
+              "salary": 26460,
+              "score": 6.27
+          },
+          {
+              "country": "Italy",
+              "salary": 17327,
+              "score": 4.02
+          },
+          {
+              "country": "United Kingdom",
+              "salary": 30608,
+              "score": 6.92
+          },
+          {
+              "country": "Greece",
+              "salary": 13305,
+              "score": 2.12
+          },
+          {
+              "country": "Portugal",
+              "salary": 5624,
+              "score": 2.17
+          },
+          {
+              "country": "Republic of Ireland",
+              "salary": 22264,
+              "score": 3.70
+          },
+          {
+              "country": "Netherlands",
+              "salary": 23597,
+              "score": 4.92
+          }
+      ]
+   },
+   {
+      "job": "Fitness Instructor",
+
+      "countries": [
+          {
+              "country": "Spain",
+              "salary": 23291,
+              "score": 3.55
+          },
+          {
+              "country": "Sweden",
+              "salary": 31839,
+              "score": 6.09
+          },
+          {
+              "country": "Cyprus",
+              "salary": 14636,
+              "score": 1.69
+          },
+          {
+              "country": "France",
+              "salary": 20270,
+              "score": 5.28
+          },
+          {
+              "country": "Germany",
+              "salary": 29846,
+              "score": 6.30
+          },
+          {
+              "country": "Italy",
+              "salary": 14857,
+              "score": 3.32
+          },
+          {
+              "country": "United Kingdom",
+              "salary": 20664,
+              "score": 5.88
+          },
+          {
+              "country": "Greece",
+              "salary": 14343,
+              "score": 1.63
+          },
+          {
+              "country": "Portugal",
+              "salary": 14626,
+              "score": 2.20
+          },
+          {
+              "country": "Republic of Ireland",
+              "salary": 19775,
+              "score": 3.11
+          },
+          {
+              "country": "Netherlands",
+              "salary": 22417,
+              "score": 4.48
+          }
+      ]
+   },
+   {
+      "job": "HR Manager",
+
+      "countries": [
+          {
+              "country": "Spain",
+              "salary": 33435,
+              "score": 3.32
+          },
+          {
+              "country": "Sweden",
+              "salary": 64249,
+              "score": 7.06
+          },
+          {
+              "country": "Cyprus",
+              "salary": 24696,
+              "score": 1.66
+          },
+          {
+              "country": "France",
+              "salary": 49215,
+              "score": 6.31
+          },
+          {
+              "country": "Germany",
+              "salary": 39975,
+              "score": 5.91
+          },
+          {
+              "country": "Italy",
+              "salary": 49882,
+              "score": 4.87
+          },
+          {
+              "country": "United Kingdom",
+              "salary": 52867,
+              "score": 7.11
+          },
+          {
+              "country": "Greece",
+              "salary": 36480,
+              "score": 2.37
+          },
+          {
+              "country": "Portugal",
+              "salary": 29832,
+              "score": 2.50
+          },
+          {
+              "country": "Republic of Ireland",
+              "salary": 39340,
+              "score": 3.56
+          },
+          {
+              "country": "Netherlands",
+              "salary": 43003,
+              "score": 4.94
+          }
+      ]
+   },
+   {
+      "job": "IT Consultant",
+
+      "countries": [
+          {
+              "country": "Spain",
+              "salary": 27977,
+              "score": 3.64
+          },
+          {
+              "country": "Sweden",
+              "salary": 38711,
+              "score": 6.16
+          },
+          {
+              "country": "Cyprus",
+              "salary": 24339,
+              "score": 2.29
+          },
+          {
+              "country": "France",
+              "salary": 34549,
+              "score": 6.08
+          },
+          {
+              "country": "Germany",
+              "salary": 41806,
+              "score": 6.76
+          },
+          {
+              "country": "Italy",
+              "salary": 22809,
+              "score": 3.79
+          },
+          {
+              "country": "United Kingdom",
+              "salary": 39284,
+              "score": 6.97
+          },
+          {
+              "country": "Greece",
+              "salary": 27360,
+              "score": 2.46
+          },
+          {
+              "country": "Portugal",
+              "salary": 15219,
+              "score": 2.17
+
+          },
+          {
+              "country": "Republic of Ireland",
+              "salary": 36090,
+              "score": 4.07
+          },
+          {
+              "country": "Netherlands",
+              "salary": 37310,
+              "score": 5.29
+          }
+      ]
+   },
+   {
+      "job": "Journalist",
+
+      "countries": [
+          {
+              "country": "Spain",
+              "salary": 15300,
+              "score": 3.38
+          },
+          {
+              "country": "Sweden",
+              "salary": 36633,
+              "score": 6.55
+          },
+          {
+              "country": "Cyprus",
+              "salary": 16551,
+              "score": 2.36
+          },
+          {
+              "country": "France",
+              "salary": 25215,
+              "score": 6.02
+          },
+          {
+              "country": "Germany",
+              "salary": 34322,
+              "score": 6.79
+          },
+          {
+              "country": "Italy",
+              "salary": 19655,
+              "score": 4.17
+          },
+          {
+              "country": "United Kingdom",
+              "salary": 24726,
+              "score": 6.55
+          },
+          {
+              "country": "Greece",
+              "salary": 5856,
+              "score": 1.63
+          },
+          {
+              "country": "Portugal",
+              "salary": 7915,
+              "score": 2.30
+          },
+          {
+              "country": "Republic of Ireland",
+              "salary": 22004,
+              "score": 3.69
+          },
+          {
+              "country": "Netherlands",
+              "salary": 28140,
+              "score": 5.22
+          }
+      ]
+   },
+   {
+      "job": "Lawyer",
+
+      "countries": [
+          {
+              "country": "Spain",
+              "salary": 30919,
+              "score": 3.48
+          },
+          {
+              "country": "Sweden",
+              "salary": 46447,
+              "score": 6.25
+          },
+          {
+              "country": "Cyprus",
+              "salary": 50503,
+              "score": 3.62
+          },
+          {
+              "country": "France",
+              "salary": 41295,
+              "score": 6.13
+          },
+          {
+              "country": "Germany",
+              "salary": 41078,
+              "score": 6.29
+          },
+          {
+              "country": "Italy",
+              "salary": 19821,
+              "score": 3.27
+          },
+          {
+              "country": "United Kingdom",
+              "salary": 76434,
+              "score": 8.93
+          },
+          {
+              "country": "Greece",
+              "salary": 23993,
+              "score": 1.89
+          },
+          {
+              "country": "Portugal",
+              "salary": 20240,
+              "score": 2.20
+          },
+          {
+              "country": "Republic of Ireland",
+              "salary": 37949,
+              "score": 3.79
+          },
+          {
+              "country": "Netherlands",
+              "salary": 43853,
+              "score": 5.30
+          }
+      ]
+   },
+   {
+      "job": "Marketing",
+
+      "countries": [
+          {
+              "country": "Spain",
+              "salary": 36125,
+              "score": 5.06
+          },
+          {
+              "country": "Sweden",
+              "salary": 40037,
+              "score": 7.32
+          },
+          {
+              "country": "Cyprus",
+              "salary": 19908,
+              "score": 2.00
+          },
+          {
+              "country": "France",
+              "salary": 27316,
+              "score": 5.99
+          },
+          {
+              "country": "Germany",
+              "salary": 29227,
+              "score": 6.40
+          },
+          {
+              "country": "Italy",
+              "salary": 21433,
+              "score": 3.79
+          },
+          {
+              "country": "United Kingdom",
+              "salary": 29311,
+              "score": 6.80
+          },
+          {
+              "country": "Greece",
+              "salary": 30638,
+              "score": 3.26
+          },
+          {
+              "country": "Portugal",
+              "salary": 17091,
+              "score": 2.17
+          },
+          {
+              "country": "Republic of Ireland",
+              "salary": 22357,
+              "score": 3.27
+          },
+          {
+              "country": "Netherlands",
+              "salary": 28192,
+              "score": 5.11
+          }
+      ]
+   },
+   {
+      "job": "Nurse",
+
+      "countries": [
+          {
+              "country": "Spain",
+              "salary": 29750,
+              "score": 4.01
+          },
+          {
+              "country": "Sweden",
+              "salary": 27536,
+              "score": 5.63
+          },
+          {
+              "country": "Cyprus",
+              "salary": 28491,
+              "score": 2.82
+          },
+          {
+              "country": "France",
+              "salary": 19573,
+              "score": 5.25
+          },
+          {
+              "country": "Germany",
+              "salary": 20332,
+              "score": 5.49
+          },
+          {
+              "country": "Italy",
+              "salary": 20648,
+              "score": 3.84
+          },
+          {
+              "country": "United Kingdom",
+              "salary": 26249,
+              "score": 6.31
+          },
+          {
+              "country": "Greece",
+              "salary": 12952,
+              "score": 1.63
+          },
+          {
+              "country": "Portugal",
+              "salary": 14857,
+              "score": 2.31
+          },
+          {
+              "country": "Republic of Ireland",
+              "salary": 25768,
+              "score": 3.59
+          },
+          {
+              "country": "Netherlands",
+              "salary": 18503,
+              "score": 4.19
+          }
+      ]
+   },
+   {
+      "job": "Paramedic",
+
+      "countries": [
+          {
+              "country": "Spain",
+              "salary": 31574,
+              "score": 4.94
+          },
+          {
+              "country": "Sweden",
+              "salary": 38941,
+              "score": 7.42
+          },
+          {
+              "country": "Cyprus",
+              "salary": 14091,
+              "score": 2.18
+          },
+          {
+              "country": "France",
+              "salary": 22800,
+              "score": 6.10
+          },
+          {
+              "country": "Germany",
+              "salary": 33395,
+              "score": 7.29
+          },
+          {
+              "country": "Italy",
+              "salary": 26439,
+              "score": 4.96
+          },
+          {
+              "country": "United Kingdom",
+              "salary": 36197,
+              "score": 7.94
+          },
+          {
+              "country": "Greece",
+              "salary": 16248,
+              "score": 2.35
+          },
+          {
+              "country": "Portugal",
+              "salary": 8608,
+              "score": 2.17
+          },
+          {
+              "country": "Republic of Ireland",
+              "salary": 31625,
+              "score": 4.81
+          },
+          {
+              "country": "Netherlands",
+              "salary": 26339,
+              "score": 5.45
+          }
+      ]
+   },
+   {
+      "job": "Personal Assistant",
+
+      "countries": [
+          {
+              "country": "Spain",
+              "salary": 29269,
+              "score": 4.67
+          },
+          {
+              "country": "Sweden",
+              "salary": 32866,
+              "score": 6.76
+          },
+          {
+              "country": "Cyprus",
+              "salary": 15456,
+              "score": 2.36
+          },
+          {
+              "country": "France",
+              "salary": 28552,
+              "score": 6.60
+          },
+          {
+              "country": "Germany",
+              "salary": 29416,
+              "score": 6.85
+          },
+          {
+              "country": "Italy",
+              "salary": 23198,
+              "score": 4.64
+          },
+          {
+              "country": "United Kingdom",
+              "salary": 21795,
+              "score": 6.58
+          },
+          {
+              "country": "Greece",
+              "salary": 15073,
+              "score": 2.29
+          },
+          {
+              "country": "Portugal",
+              "salary": 7398,
+              "score": 2.17
+          },
+          {
+              "country": "Republic of Ireland",
+              "salary": 27865,
+              "score": 4.41
+          },
+          {
+              "country": "Netherlands",
+              "salary": 29700,
+              "score": 5.71
+          }
+      ]
+   },
+   {
+      "job": "Pharmacist",
+
+      "countries": [
+          {
+              "country": "Spain",
+              "salary": 20108,
+              "score": 3.26
+          },
+          {
+              "country": "Sweden",
+              "salary": 29700,
+              "score": 5.75
+          },
+          {
+              "country": "Cyprus",
+              "salary": 28560,
+              "score": 2.77
+          },
+          {
+              "country": "France",
+              "salary": 25653,
+              "score": 5.66
+          },
+          {
+              "country": "Germany",
+              "salary": 33956,
+              "score": 6.45
+          },
+          {
+              "country": "Italy",
+              "salary": 18668,
+              "score": 3.66
+          },
+          {
+              "country": "United Kingdom",
+              "salary": 37506,
+              "score": 7.09
+          },
+          {
+              "country": "Greece",
+              "salary": 28734,
+              "score": 2.75
+          },
+          {
+              "country": "Portugal",
+              "salary": 13372,
+              "score": 2.17
+          },
+          {
+              "country": "Republic of Ireland",
+              "salary": 40990,
+              "score": 4.66
+          },
+          {
+              "country": "Netherlands",
+              "salary": 27223,
+              "score": 4.79
+          }
+      ]
+   },
+   {
+      "job": "Physiotherapist",
+
+      "countries": [
+          {
+              "country": "Spain",
+              "salary": 28870,
+              "score": 4.23
+          },
+          {
+              "country": "Sweden",
+              "salary": 48873,
+              "score": 7.39
+          },
+          {
+              "country": "Cyprus",
+              "salary": 28491,
+              "score": 3.10
+          },
+          {
+              "country": "France",
+              "salary": 27922,
+              "score": 6.16
+          },
+          {
+              "country": "Germany",
+              "salary": 20380,
+              "score": 5.83
+          },
+          {
+              "country": "Italy",
+              "salary": 17033,
+              "score": 3.93
+          },
+          {
+              "country": "United Kingdom",
+              "salary": 29125,
+              "score": 6.81
+          },
+          {
+              "country": "Greece",
+              "salary": 11301,
+              "score": 1.89
+          },
+          {
+              "country": "Portugal",
+              "salary": 7459,
+              "score": 2.17
+          },
+          {
+              "country": "Republic of Ireland",
+              "salary": 29900,
+              "score": 4.17
+          },
+          {
+              "country": "Netherlands",
+              "salary": 28805,
+              "score": 5.24
+          }
+      ]
+   },
+   {
+      "job": "Pilot",
+
+      "countries": [
+          {
+              "country": "Spain",
+              "salary": 42011,
+              "score": 3.96
+          },
+          {
+              "country": "Sweden",
+              "salary": 55006,
+              "score": 6.45
+          },
+          {
+              "country": "Cyprus",
+              "salary": 41897,
+              "score": 2.85
+          },
+          {
+              "country": "France",
+              "salary": 67200,
+              "score": 7.32
+          },
+          {
+              "country": "Germany",
+              "salary": 60480,
+              "score": 7.14
+          },
+          {
+              "country": "Italy",
+              "salary": 49980,
+              "score": 4.89
+          },
+          {
+              "country": "United Kingdom",
+              "salary": 86342,
+              "score": 8.93
+          },
+          {
+              "country": "Greece",
+              "salary": 20160,
+              "score": 1.63
+          },
+          {
+              "country": "Portugal",
+              "salary": 28848,
+              "score": 2.64
+          },
+          {
+              "country": "Republic of Ireland",
+              "salary": 51622,
+              "score": 4.35
+          },
+          {
+              "country": "Netherlands",
+              "salary": 50736,
+              "score": 5.44
+          }
+      ]
+   },
+   {
+      "job": "Police Officer",
+
+      "countries": [
+          {
+              "country": "Spain",
+              "salary": 20711,
+              "score": 3.73
+          },
+          {
+              "country": "Sweden",
+              "salary": 43413,
+              "score": 6.96
+          },
+          {
+              "country": "Cyprus",
+              "salary": 22014,
+              "score": 2.71
+          },
+          {
+              "country": "France",
+              "salary": 21228,
+              "score": 5.75
+          },
+          {
+              "country": "Germany",
+              "salary": 23702,
+              "score": 6.09
+          },
+          {
+              "country": "Italy",
+              "salary": 19320,
+              "score": 4.14
+          },
+          {
+              "country": "United Kingdom",
+              "salary": 39703,
+              "score": 7.50
+          },
+          {
+              "country": "Greece",
+              "salary": 11865,
+              "score": 2.02
+          },
+          {
+              "country": "Portugal",
+              "salary": 5624,
+              "score": 2.17
+          },
+          {
+              "country": "Republic of Ireland",
+              "salary": 32046,
+              "score": 4.32
+          },
+          {
+              "country": "Netherlands",
+              "salary": 39900,
+              "score": 5.96
+          }
+      ]
+   },
+   {
+      "job": "Psychologist",
+
+      "countries": [
+          {
+              "country": "Spain",
+              "salary": 31574,
+              "score": 3.94
+          },
+          {
+              "country": "Sweden",
+              "salary": 35221,
+              "score": 5.95
+          },
+          {
+              "country": "Cyprus",
+              "salary": 16349,
+              "score": 1.89
+          },
+          {
+              "country": "France",
+              "salary": 26147,
+              "score": 5.59
+          },
+          {
+              "country": "Germany",
+              "salary": 51317,
+              "score": 7.34
+          },
+          {
+              "country": "Italy",
+              "salary": 18002,
+              "score": 3.60
+          },
+          {
+              "country": "United Kingdom",
+              "salary": 36921,
+              "score": 6.83
+          },
+          {
+              "country": "Greece",
+              "salary": 12786,
+              "score": 1.63
+          },
+          {
+              "country": "Portugal",
+              "salary": 14928,
+              "score": 2.30
+          },
+          {
+              "country": "Republic of Ireland",
+              "salary": 32046,
+              "score": 3.89
+          },
+          {
+              "country": "Netherlands",
+              "salary": 33778,
+              "score": 5.08
+          }
+      ]
+   },
+   {
+      "job": "Receptionist",
+
+      "countries": [
+          {
+              "country": "Spain",
+              "salary": 11937,
+              "score": 3.64
+          },
+          {
+              "country": "Sweden",
+              "salary": 28301,
+              "score": 8.02
+          },
+          {
+              "country": "Cyprus",
+              "salary": 15456,
+              "score": 3.10
+          },
+          {
+              "country": "France",
+              "salary": 19295,
+              "score": 6.80
+          },
+          {
+              "country": "Germany",
+              "salary": 15714,
+              "score": 6.41
+          },
+          {
+              "country": "Italy",
+              "salary": 12628,
+              "score": 4.25
+          },
+          {
+              "country": "United Kingdom",
+              "salary": 15488,
+              "score": 6.76
+          },
+          {
+              "country": "Greece",
+              "salary": 12378,
+              "score": 2.57
+          },
+          {
+              "country": "Portugal",
+              "salary": 6451,
+              "score": 2.17
+          },
+          {
+              "country": "Republic of Ireland",
+              "salary": 18756,
+              "score": 4.59
+          },
+          {
+              "country": "Netherlands",
+              "salary": 18383,
+              "score": 5.67
+          }
+      ]
+   },
+   {
+      "job": "Sales and Retail Assistants",
+
+      "countries": [
+          {
+              "country": "Spain",
+              "salary": 15603,
+              "score": 3.19
+          },
+          {
+              "country": "Sweden",
+              "salary": 27617,
+              "score": 6.22
+          },
+          {
+              "country": "Cyprus",
+              "salary": 21833,
+              "score": 2.73
+          },
+          {
+              "country": "France",
+              "salary": 24658,
+              "score": 6.12
+          },
+          {
+              "country": "Germany",
+              "salary": 15392,
+              "score": 5.34
+          },
+          {
+              "country": "Italy",
+              "salary": 12516,
+              "score": 3.37
+          },
+          {
+              "country": "United Kingdom",
+              "salary": 28098,
+              "score": 7.04
+          },
+          {
+              "country": "Greece",
+              "salary": 15462,
+              "score": 2.03
+          },
+          {
+              "country": "Portugal",
+              "salary": 11592,
+              "score": 2.17
+          },
+          {
+              "country": "Republic of Ireland",
+              "salary": 18482,
+              "score": 3.35
+          },
+          {
+              "country": "Netherlands",
+              "salary": 22199,
+              "score": 4.88
+          }
+      ]
+   },
+   {
+      "job": "Social Worker",
+
+      "countries": [
+          {
+              "country": "Spain",
+              "salary": 16571,
+              "score": 3.33
+          },
+          {
+              "country": "Sweden",
+              "salary": 35221,
+              "score": 8.03
+          },
+          {
+              "country": "Cyprus",
+              "salary": 16350,
+              "score": 2.19
+          },
+          {
+              "country": "France",
+              "salary": 24323,
+              "score": 6.53
+          },
+          {
+              "country": "Germany",
+              "salary": 36036,
+              "score": 8.54
+          },
+          {
+              "country": "Italy",
+              "salary": 18000,
+              "score": 4.06
+          },
+          {
+              "country": "United Kingdom",
+              "salary": 28680,
+              "score": 7.78
+          },
+          {
+              "country": "Greece",
+              "salary": 12952,
+              "score": 1.63
+          },
+          {
+              "country": "Portugal",
+              "salary": 17156,
+              "score": 2.83
+          },
+          {
+              "country": "Republic of Ireland",
+              "salary": 31499,
+              "score": 5.53
+          },
+          {
+              "country": "Netherlands",
+              "salary": 18690,
+              "score": 4.67
+          }
+      ]
+   },
+   {
+      "job": "Solicitor",
+
+      "countries": [
+          {
+              "country": "Spain",
+              "salary": 28506,
+              "score": 3.51
+          },
+          {
+              "country": "Sweden",
+              "salary": 19381,
+              "score": 4.74
+          },
+          {
+              "country": "Cyprus",
+              "salary": 16349,
+              "score": 1.66
+          },
+          {
+              "country": "France",
+              "salary": 26147,
+              "score": 5.35
+          },
+          {
+              "country": "Germany",
+              "salary": 60359,
+              "score": 7.61
+          },
+          {
+              "country": "Italy",
+              "salary": 30280,
+              "score": 4.11
+          },
+          {
+              "country": "United Kingdom",
+              "salary": 40668,
+              "score": 6.80
+          },
+          {
+              "country": "Greece",
+              "salary": 16551,
+              "score": 1.64
+          },
+          {
+              "country": "Portugal",
+              "salary": 24620,
+              "score": 2.67
+          },
+          {
+              "country": "Republic of Ireland",
+              "salary": 34767,
+              "score": 3.75
+          },
+          {
+              "country": "Netherlands",
+              "salary": 32225,
+              "score": 4.74
+          }
+      ]
+   },
+   {
+      "job": "Teacher",
+
+      "countries": [
+          {
+              "country": "Spain",
+              "salary": 32093,
+              "score": 4.67
+          },
+          {
+              "country": "Sweden",
+              "salary": 26712,
+              "score": 5.85
+          },
+          {
+              "country": "Cyprus",
+              "salary": 19880,
+              "score": 2.18
+          },
+          {
+              "country": "France",
+              "salary": 26991,
+              "score": 6.08
+          },
+          {
+              "country": "Germany",
+              "salary": 45295,
+              "score": 8.34
+          },
+          {
+              "country": "Italy",
+              "salary": 25227,
+              "score": 4.39
+          },
+          {
+              "country": "United Kingdom",
+              "salary": 30189,
+              "score": 7.01
+          },
+          {
+              "country": "Greece",
+              "salary": 19790,
+              "score": 2.14
+          },
+          {
+              "country": "Portugal",
+              "salary": 15311,
+              "score": 2.17
+          },
+          {
+              "country": "Republic of Ireland",
+              "salary": 25828,
+              "score": 3.83
+          },
+          {
+              "country": "Netherlands",
+              "salary": 36629,
+              "score": 6.19
+          }
+      ]
+   },
+   {
+      "job": "Teaching Assistant",
+
+      "countries": [
+          {
+              "country": "Spain",
+              "salary": 17733,
+              "score": 4.36
+          },
+          {
+              "country": "Sweden",
+              "salary": 26133,
+              "score": 7.55
+          },
+          {
+              "country": "Cyprus",
+              "salary": 10624,
+              "score": 2.06
+          },
+          {
+              "country": "France",
+              "salary": 24403,
+              "score": 7.47
+          },
+          {
+              "country": "Germany",
+              "salary": 29725,
+              "score": 8.54
+          },
+          {
+              "country": "Italy",
+              "salary": 13950,
+              "score": 4.23
+          },
+          {
+              "country": "United Kingdom",
+              "salary": 12081,
+              "score": 5.97
+          },
+          {
+              "country": "Greece",
+              "salary": 11944,
+              "score": 2.25
+          },
+          {
+              "country": "Portugal",
+              "salary": 8235,
+              "score": 2.17
+          },
+          {
+              "country": "Republic of Ireland",
+              "salary": 18398,
+              "score": 4.34
+          },
+          {
+              "country": "Netherlands",
+              "salary": 20512,
+              "score": 5.83
+          }
+      ]
+   },
+   {
+      "job": "Telephone Salesperson",
+
+      "countries": [
+          {
+              "country": "Spain",
+              "salary": 19911,
+              "score": 4.48
+          },
+          {
+              "country": "Sweden",
+              "salary": 22253,
+              "score": 6.53
+          },
+          {
+              "country": "Cyprus",
+              "salary": 14038,
+              "score": 2.73
+          },
+          {
+              "country": "France",
+              "salary": 16128,
+              "score": 6.06
+          },
+          {
+              "country": "Germany",
+              "salary": 20018,
+              "score": 6.67
+          },
+          {
+              "country": "Italy",
+              "salary": 14081,
+              "score": 4.34
+          },
+          {
+              "country": "United Kingdom",
+              "salary": 17397,
+              "score": 6.76
+          },
+          {
+              "country": "Greece",
+              "salary": 18144,
+              "score": 3.15
+          },
+          {
+              "country": "Portugal",
+              "salary": 4415,
+              "score": 2.17
+          },
+          {
+              "country": "Republic of Ireland",
+              "salary": 20966,
+              "score": 4.47
+          },
+          {
+              "country": "Netherlands",
+              "salary": 19655,
+              "score": 5.46
+          }
+      ]
+   },
+   {
+      "job": "Train Driver",
+
+      "countries": [
+          {
+              "country": "Spain",
+              "salary": 17041,
+              "score": 3.27
+          },
+          {
+              "country": "Sweden",
+              "salary": 40626,
+              "score": 7.14
+          },
+          {
+              "country": "Cyprus",
+              "salary": 13255,
+              "score": 1.83
+          },
+          {
+              "country": "France",
+              "salary": 25704,
+              "score": 6.03
+          },
+          {
+              "country": "Germany",
+              "salary": 30219,
+              "score": 6.61
+          },
+          {
+              "country": "Italy",
+              "salary": 18779,
+              "score": 3.93
+          },
+          {
+              "country": "United Kingdom",
+              "salary": 48908,
+              "score": 8.64
+          },
+          {
+              "country": "Greece",
+              "salary": 12176,
+              "score": 1.70
+          },
+          {
+              "country": "Portugal",
+              "salary": 11329,
+              "score": 2.17
+          },
+          {
+              "country": "Republic of Ireland",
+              "salary": 29100,
+              "score": 4.21
+          },
+          {
+              "country": "Netherlands",
+              "salary": 38505,
+              "score": 6.18
+          }
+      ]
+   },
+   {
+      "job": "Travel Agent",
+
+      "countries": [
+          {
+              "country": "Spain",
+              "salary": 22490,
+              "score": 4.71
+          },
+          {
+              "country": "Sweden",
+              "salary": 28301,
+              "score": 7.23
+          },
+          {
+              "country": "Cyprus",
+              "salary": 13214,
+              "score": 2.44
+          },
+          {
+              "country": "France",
+              "salary": 20160,
+              "score": 6.41
+          },
+          {
+              "country": "Germany",
+              "salary": 16185,
+              "score": 6.09
+          },
+          {
+              "country": "Italy",
+              "salary": 13608,
+              "score": 4.09
+          },
+          {
+              "country": "United Kingdom",
+              "salary": 35316,
+              "score": 8.89
+          },
+          {
+              "country": "Greece",
+              "salary": 10994,
+              "score": 2.12
+          },
+          {
+              "country": "Portugal",
+              "salary": 7116,
+              "score": 2.17
+          },
+          {
+              "country": "Republic of Ireland",
+              "salary": 20653,
+              "score": 4.35
+          },
+          {
+              "country": "Netherlands",
+              "salary": 31500,
+              "score": 6.86
+          }
+      ]
+   },
+   {
+      "job": "Vet",
+
+      "countries": [
+          {
+              "country": "Spain",
+              "salary": 25135,
+              "score": 3.66
+          },
+          {
+              "country": "Sweden",
+              "salary": 39041,
+              "score": 6.30
+          },
+          {
+              "country": "Cyprus",
+              "salary": 21611,
+              "score": 2.34
+          },
+          {
+              "country": "France",
+              "salary": 25916,
+              "score": 5.70
+          },
+          {
+              "country": "Germany",
+              "salary": 31641,
+              "score": 6.23
+          },
+          {
+              "country": "Italy",
+              "salary": 30340,
+              "score": 4.48
+          },
+          {
+              "country": "United Kingdom",
+              "salary": 34502,
+              "score": 6.79
+          },
+          {
+              "country": "Greece",
+              "salary": 16248,
+              "score": 1.97
+          },
+          {
+              "country": "Portugal",
+              "salary": 10584,
+              "score": 2.17
+          },
+          {
+              "country": "Republic of Ireland",
+              "salary": 30672,
+              "score": 3.87
+          },
+          {
+              "country": "Netherlands",
+              "salary": 29400,
+              "score": 4.93
+          }
+      ]
+   },
+   {
+      "job": "Waiter / Waitress",
+
+      "countries": [
+          {
+              "country": "Spain",
+              "salary": 10783,
+              "score": 3.52
+          },
+          {
+              "country": "Sweden",
+              "salary": 21071,
+              "score": 6.94
+          },
+          {
+              "country": "Cyprus",
+              "salary": 7730,
+              "score": 1.93
+          },
+          {
+              "country": "France",
+              "salary": 14366,
+              "score": 6.08
+          },
+          {
+              "country": "Germany",
+              "salary": 10393,
+              "score": 5.63
+          },
+          {
+              "country": "Italy",
+              "salary": 12586,
+              "score": 4.31
+          },
+          {
+              "country": "United Kingdom",
+              "salary": 7676,
+              "score": 5.58
+          },
+          {
+              "country": "Greece",
+              "salary": 7056,
+              "score": 1.79
+          },
+          {
+              "country": "Portugal",
+              "salary": 6048,
+              "score": 2.17
+          },
+          {
+              "country": "Republic of Ireland",
+              "salary": 16866,
+              "score": 4.35
+          },
+          {
+              "country": "Netherlands",
+              "salary": 17920,
+              "score": 5.66
+          }
+      ]
+   },
+   {
+      "job": "Window Cleaner",
+
+      "countries": [
+          {
+              "country": "Spain",
+              "salary": 15388,
+              "score": 4.10
+          },
+          {
+              "country": "Sweden",
+              "salary": 32485,
+              "score": 8.15
+          },
+          {
+              "country": "Cyprus",
+              "salary": 5352,
+              "score": 1.66
+          },
+          {
+              "country": "France",
+              "salary": 16440,
+              "score": 6.23
+          },
+          {
+              "country": "Germany",
+              "salary": 22236,
+              "score": 7.18
+          },
+          {
+              "country": "Italy",
+              "salary": 12428,
+              "score": 4.21
+          },
+          {
+              "country": "United Kingdom",
+              "salary": 15316,
+              "score": 6.65
+          },
+          {
+              "country": "Greece",
+              "salary": 10382,
+              "score": 2.29
+          },
+          {
+              "country": "Portugal",
+              "salary": 8457,
+              "score": 2.58
+          },
+          {
+              "country": "Republic of Ireland",
+              "salary": 18454,
+              "score": 4.38
+          },
+          {
+              "country": "Netherlands",
+              "salary": 17700,
+              "score": 5.41
+          }
+      ]
+   }
+]
