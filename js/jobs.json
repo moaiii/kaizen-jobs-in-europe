@@ -1,0 +1,2281 @@
+[
+  {
+    "job": "Accountant",
+    "countries": [
+      {
+        "country": "SPAIN",
+        "salary": 24447
+      },
+      {
+        "country": "SWEDEN",
+        "salary": 33806
+      },
+      {
+        "country": "CYPRUS",
+        "salary": 25118
+      },
+      {
+        "country": "FRANCE",
+        "salary": 35196
+      },
+      {
+        "country": "GERMANY",
+        "salary": 31620
+      },
+      {
+        "country": "REPUBLIC OF IRELAND",
+        "salary": 28444
+      },
+      {
+        "country": "ITALY",
+        "salary": 28413
+      },
+      {
+        "country": "UNITED KINGDOM",
+        "salary": 37487
+      },
+      {
+        "country": "GREECE",
+        "salary": 19148
+      },
+      {
+        "country": "NETHERLANDS",
+        "salary": 33295
+      },
+      {
+        "country": "PORTUGAL",
+        "salary": 19537
+      },
+      {
+        "country": "SWITZERLAND",
+        "salary": 65958
+      }
+    ]
+  },
+  {
+    "job": "Architect",
+    "countries": [
+      {
+        "country": "SPAIN",
+        "salary": 31473
+      },
+      {
+        "country": "SWEDEN",
+        "salary": 44725
+      },
+      {
+        "country": "CYPRUS",
+        "salary": 31167
+      },
+      {
+        "country": "FRANCE",
+        "salary": 47490
+      },
+      {
+        "country": "GERMANY",
+        "salary": 43355
+      },
+      {
+        "country": "REPUBLIC OF IRELAND",
+        "salary": 36178
+      },
+      {
+        "country": "ITALY",
+        "salary": 35698
+      },
+      {
+        "country": "UNITED KINGDOM",
+        "salary": 47107
+      },
+      {
+        "country": "GREECE",
+        "salary": 25750
+      },
+      {
+        "country": "NETHERLANDS",
+        "salary": 43375
+      },
+      {
+        "country": "PORTUGAL",
+        "salary": 26362
+      },
+      {
+        "country": "SWITZERLAND",
+        "salary": 86236
+      }
+    ]
+  },
+  {
+    "job": "Bar Staff",
+    "countries": [
+      {
+        "country": "SPAIN",
+        "salary": 22962
+      },
+      {
+        "country": "SWEDEN",
+        "salary": 32057
+      },
+      {
+        "country": "CYPRUS",
+        "salary": 23704
+      },
+      {
+        "country": "FRANCE",
+        "salary": 34202
+      },
+      {
+        "country": "GERMANY",
+        "salary": 30565
+      },
+      {
+        "country": "REPUBLIC OF IRELAND",
+        "salary": 26312
+      },
+      {
+        "country": "ITALY",
+        "salary": 25878
+      },
+      {
+        "country": "UNITED KINGDOM",
+        "salary": 36055
+      },
+      {
+        "country": "GREECE",
+        "salary": 19488
+      },
+      {
+        "country": "NETHERLANDS",
+        "salary": 30182
+      },
+      {
+        "country": "PORTUGAL",
+        "salary": 18986
+      },
+      {
+        "country": "SWITZERLAND",
+        "salary": 61598
+      }
+    ]
+  },
+  {
+    "job": "Bus Driver",
+    "countries": [
+      {
+        "country": "SPAIN",
+        "salary": 21398
+      },
+      {
+        "country": "SWEDEN",
+        "salary": 28652
+      },
+      {
+        "country": "CYPRUS",
+        "salary": 21639
+      },
+      {
+        "country": "FRANCE",
+        "salary": 30411
+      },
+      {
+        "country": "GERMANY",
+        "salary": 27196
+      },
+      {
+        "country": "REPUBLIC OF IRELAND",
+        "salary": 23149
+      },
+      {
+        "country": "ITALY",
+        "salary": 23799
+      },
+      {
+        "country": "UNITED KINGDOM",
+        "salary": 32785
+      },
+      {
+        "country": "GREECE",
+        "salary": 19488
+      },
+      {
+        "country": "NETHERLANDS",
+        "salary": 28351
+      },
+      {
+        "country": "PORTUGAL",
+        "salary": 16881
+      },
+      {
+        "country": "SWITZERLAND",
+        "salary": 57491
+      }
+    ]
+  },
+  {
+    "job": "Carpenter",
+    "countries": [
+      {
+        "country": "SPAIN",
+        "salary": 23178
+      },
+      {
+        "country": "SWEDEN",
+        "salary": 32299
+      },
+      {
+        "country": "CYPRUS",
+        "salary": 23905
+      },
+      {
+        "country": "FRANCE",
+        "salary": 34302
+      },
+      {
+        "country": "GERMANY",
+        "salary": 30104
+      },
+      {
+        "country": "REPUBLIC OF IRELAND",
+        "salary": 26142
+      },
+      {
+        "country": "ITALY",
+        "salary": 25287
+      },
+      {
+        "country": "UNITED KINGDOM",
+        "salary": 35547
+      },
+      {
+        "country": "GREECE",
+        "salary": 18305
+      },
+      {
+        "country": "NETHERLANDS",
+        "salary": 29521
+      },
+      {
+        "country": "PORTUGAL",
+        "salary": 19041
+      },
+      {
+        "country": "SWITZERLAND",
+        "salary": 61084
+      }
+    ]
+  },
+  {
+    "job": "Chef",
+    "countries": [
+      {
+        "country": "SPAIN",
+        "salary": 28753
+      },
+      {
+        "country": "SWEDEN",
+        "salary": 37856
+      },
+      {
+        "country": "CYPRUS",
+        "salary": 28838
+      },
+      {
+        "country": "FRANCE",
+        "salary": 42707
+      },
+      {
+        "country": "GERMANY",
+        "salary": 40066
+      },
+      {
+        "country": "REPUBLIC OF IRELAND",
+        "salary": 33189
+      },
+      {
+        "country": "ITALY",
+        "salary": 32887
+      },
+      {
+        "country": "UNITED KINGDOM",
+        "salary": 44036
+      },
+      {
+        "country": "GREECE",
+        "salary": 23706
+      },
+      {
+        "country": "NETHERLANDS",
+        "salary": 39466
+      },
+      {
+        "country": "PORTUGAL",
+        "salary": 23706
+      },
+      {
+        "country": "SWITZERLAND",
+        "salary": 73231
+      }
+    ]
+  },
+  {
+    "job": "Childcare",
+    "countries": [
+      {
+        "country": "SPAIN",
+        "salary": 33419
+      },
+      {
+        "country": "SWEDEN",
+        "salary": 45613
+      },
+      {
+        "country": "CYPRUS",
+        "salary": 35861
+      },
+      {
+        "country": "FRANCE",
+        "salary": 48404
+      },
+      {
+        "country": "GERMANY",
+        "salary": 45118
+      },
+      {
+        "country": "REPUBLIC OF IRELAND",
+        "salary": 34109
+      },
+      {
+        "country": "ITALY",
+        "salary": 38673
+      },
+      {
+        "country": "UNITED KINGDOM",
+        "salary": 29860
+      },
+      {
+        "country": "GREECE",
+        "salary": 23425
+      },
+      {
+        "country": "NETHERLANDS",
+        "salary": 38087
+      },
+      {
+        "country": "PORTUGAL",
+        "salary": 24129
+      },
+      {
+        "country": "SWITZERLAND",
+        "salary": 78627
+      }
+    ]
+  },
+  {
+    "job": "Cleaner",
+    "countries": [
+      {
+        "country": "SPAIN",
+        "salary": 14568
+      },
+      {
+        "country": "SWEDEN",
+        "salary": 19098
+      },
+      {
+        "country": "CYPRUS",
+        "salary": 14581
+      },
+      {
+        "country": "FRANCE",
+        "salary": 21337
+      },
+      {
+        "country": "GERMANY",
+        "salary": 19284
+      },
+      {
+        "country": "REPUBLIC OF IRELAND",
+        "salary": 16442
+      },
+      {
+        "country": "ITALY",
+        "salary": 17197
+      },
+      {
+        "country": "UNITED KINGDOM",
+        "salary": 23462
+      },
+      {
+        "country": "GREECE",
+        "salary": 11982
+      },
+      {
+        "country": "NETHERLANDS",
+        "salary": 19885
+      },
+      {
+        "country": "PORTUGAL",
+        "salary": 12101
+      },
+      {
+        "country": "SWITZERLAND",
+        "salary": 40661
+      }
+    ]
+  },
+  {
+    "job": "Customer Service",
+    "countries": [
+      {
+        "country": "SPAIN",
+        "salary": 28249
+      },
+      {
+        "country": "SWEDEN",
+        "salary": 40892
+      },
+      {
+        "country": "CYPRUS",
+        "salary": 27905
+      },
+      {
+        "country": "FRANCE",
+        "salary": 43637
+      },
+      {
+        "country": "GERMANY",
+        "salary": 39796
+      },
+      {
+        "country": "REPUBLIC OF IRELAND",
+        "salary": 29387
+      },
+      {
+        "country": "ITALY",
+        "salary": 31737
+      },
+      {
+        "country": "UNITED KINGDOM",
+        "salary": 44342
+      },
+      {
+        "country": "GREECE",
+        "salary": 19421
+      },
+      {
+        "country": "NETHERLANDS",
+        "salary": 32814
+      },
+      {
+        "country": "PORTUGAL",
+        "salary": 20612
+      },
+      {
+        "country": "SWITZERLAND",
+        "salary": 64420
+      }
+    ]
+  },
+  {
+    "job": "Dental Nurse (Dental Assistant)",
+    "countries": [
+      {
+        "country": "SPAIN",
+        "salary": 23652
+      },
+      {
+        "country": "SWEDEN",
+        "salary": 33741
+      },
+      {
+        "country": "CYPRUS",
+        "salary": 23472
+      },
+      {
+        "country": "FRANCE",
+        "salary": 36179
+      },
+      {
+        "country": "GERMANY",
+        "salary": 31043
+      },
+      {
+        "country": "REPUBLIC OF IRELAND",
+        "salary": 28117
+      },
+      {
+        "country": "ITALY",
+        "salary": 25954
+      },
+      {
+        "country": "UNITED KINGDOM",
+        "salary": 38090
+      },
+      {
+        "country": "GREECE",
+        "salary": 20083
+      },
+      {
+        "country": "NETHERLANDS",
+        "salary": 31512
+      },
+      {
+        "country": "PORTUGAL",
+        "salary": 20083
+      },
+      {
+        "country": "SWITZERLAND",
+        "salary": 60835
+      }
+    ]
+  },
+  {
+    "job": "Dentist",
+    "countries": [
+      {
+        "country": "SPAIN",
+        "salary": 84205
+      },
+      {
+        "country": "SWEDEN",
+        "salary": 111338
+      },
+      {
+        "country": "CYPRUS",
+        "salary": 84627
+      },
+      {
+        "country": "FRANCE",
+        "salary": 126802
+      },
+      {
+        "country": "GERMANY",
+        "salary": 111927
+      },
+      {
+        "country": "REPUBLIC OF IRELAND",
+        "salary": 100464
+      },
+      {
+        "country": "ITALY",
+        "salary": 93241
+      },
+      {
+        "country": "UNITED KINGDOM",
+        "salary": 135611
+      },
+      {
+        "country": "GREECE",
+        "salary": 66271
+      },
+      {
+        "country": "NETHERLANDS",
+        "salary": 111771
+      },
+      {
+        "country": "PORTUGAL",
+        "salary": 70388
+      },
+      {
+        "country": "SWITZERLAND",
+        "salary": 223055
+      }
+    ]
+  },
+  {
+    "job": "Designer",
+    "countries": [
+      {
+        "country": "SPAIN",
+        "salary": 19293
+      },
+      {
+        "country": "SWEDEN",
+        "salary": 27575
+      },
+      {
+        "country": "CYPRUS",
+        "salary": 20152
+      },
+      {
+        "country": "FRANCE",
+        "salary": 28281
+      },
+      {
+        "country": "GERMANY",
+        "salary": 26001
+      },
+      {
+        "country": "REPUBLIC OF IRELAND",
+        "salary": 22200
+      },
+      {
+        "country": "ITALY",
+        "salary": 21929
+      },
+      {
+        "country": "UNITED KINGDOM",
+        "salary": 30302
+      },
+      {
+        "country": "GREECE",
+        "salary": 15222
+      },
+      {
+        "country": "NETHERLANDS",
+        "salary": 25264
+      },
+      {
+        "country": "PORTUGAL",
+        "salary": 15698
+      },
+      {
+        "country": "SWITZERLAND",
+        "salary": 53226
+      }
+    ]
+  },
+  {
+    "job": "Doctor",
+    "countries": [
+      {
+        "country": "SPAIN",
+        "salary": 90896
+      },
+      {
+        "country": "SWEDEN",
+        "salary": 126666
+      },
+      {
+        "country": "CYPRUS",
+        "salary": 93746
+      },
+      {
+        "country": "FRANCE",
+        "salary": 134522
+      },
+      {
+        "country": "GERMANY",
+        "salary": 118060
+      },
+      {
+        "country": "REPUBLIC OF IRELAND",
+        "salary": 102520
+      },
+      {
+        "country": "ITALY",
+        "salary": 99164
+      },
+      {
+        "country": "UNITED KINGDOM",
+        "salary": 139402
+      },
+      {
+        "country": "GREECE",
+        "salary": 71785
+      },
+      {
+        "country": "NETHERLANDS",
+        "salary": 115772
+      },
+      {
+        "country": "PORTUGAL",
+        "salary": 74673
+      },
+      {
+        "country": "SWITZERLAND",
+        "salary": 239548
+      }
+    ]
+  },
+  {
+    "job": "Electrical Engineer",
+    "countries": [
+      {
+        "country": "SPAIN",
+        "salary": 34738
+      },
+      {
+        "country": "SWEDEN",
+        "salary": 55018
+      },
+      {
+        "country": "CYPRUS",
+        "salary": 41718
+      },
+      {
+        "country": "FRANCE",
+        "salary": 56969
+      },
+      {
+        "country": "GERMANY",
+        "salary": 51220
+      },
+      {
+        "country": "REPUBLIC OF IRELAND",
+        "salary": 28790
+      },
+      {
+        "country": "ITALY",
+        "salary": 43003
+      },
+      {
+        "country": "UNITED KINGDOM",
+        "salary": 54584
+      },
+      {
+        "country": "GREECE",
+        "salary": 22723
+      },
+      {
+        "country": "NETHERLANDS",
+        "salary": 33024
+      },
+      {
+        "country": "PORTUGAL",
+        "salary": 27081
+      },
+      {
+        "country": "SWITZERLAND",
+        "salary": 70838
+      }
+    ]
+  },
+  {
+    "job": "Electrician",
+    "countries": [
+      {
+        "country": "SPAIN",
+        "salary": 20503
+      },
+      {
+        "country": "SWEDEN",
+        "salary": 27808
+      },
+      {
+        "country": "CYPRUS",
+        "salary": 20864
+      },
+      {
+        "country": "FRANCE",
+        "salary": 30598
+      },
+      {
+        "country": "GERMANY",
+        "salary": 28306
+      },
+      {
+        "country": "REPUBLIC OF IRELAND",
+        "salary": 30863
+      },
+      {
+        "country": "ITALY",
+        "salary": 23678
+      },
+      {
+        "country": "UNITED KINGDOM",
+        "salary": 43711
+      },
+      {
+        "country": "GREECE",
+        "salary": 23894
+      },
+      {
+        "country": "NETHERLANDS",
+        "salary": 37799
+      },
+      {
+        "country": "PORTUGAL",
+        "salary": 22507
+      },
+      {
+        "country": "SWITZERLAND",
+        "salary": 76649
+      }
+    ]
+  },
+  {
+    "job": "Engineer",
+    "countries": [
+      {
+        "country": "SPAIN",
+        "salary": 32254
+      },
+      {
+        "country": "SWEDEN",
+        "salary": 43633
+      },
+      {
+        "country": "CYPRUS",
+        "salary": 31167
+      },
+      {
+        "country": "FRANCE",
+        "salary": 45149
+      },
+      {
+        "country": "GERMANY",
+        "salary": 42287
+      },
+      {
+        "country": "REPUBLIC OF IRELAND",
+        "salary": 34868
+      },
+      {
+        "country": "ITALY",
+        "salary": 34787
+      },
+      {
+        "country": "UNITED KINGDOM",
+        "salary": 50586
+      },
+      {
+        "country": "GREECE",
+        "salary": 24538
+      },
+      {
+        "country": "NETHERLANDS",
+        "salary": 40489
+      },
+      {
+        "country": "PORTUGAL",
+        "salary": 27245
+      },
+      {
+        "country": "SWITZERLAND",
+        "salary": 87089
+      }
+    ]
+  },
+  {
+    "job": "Estate Agent",
+    "countries": [
+      {
+        "country": "SPAIN",
+        "salary": 30445
+      },
+      {
+        "country": "SWEDEN",
+        "salary": 42844
+      },
+      {
+        "country": "CYPRUS",
+        "salary": 31554
+      },
+      {
+        "country": "FRANCE",
+        "salary": 46624
+      },
+      {
+        "country": "GERMANY",
+        "salary": 40695
+      },
+      {
+        "country": "REPUBLIC OF IRELAND",
+        "salary": 33757
+      },
+      {
+        "country": "ITALY",
+        "salary": 35590
+      },
+      {
+        "country": "UNITED KINGDOM",
+        "salary": 47809
+      },
+      {
+        "country": "GREECE",
+        "salary": 26134
+      },
+      {
+        "country": "NETHERLANDS",
+        "salary": 41342
+      },
+      {
+        "country": "PORTUGAL",
+        "salary": 25880
+      },
+      {
+        "country": "SWITZERLAND",
+        "salary": 79685
+      }
+    ]
+  },
+  {
+    "job": "Fire Fighter",
+    "countries": [
+      {
+        "country": "SPAIN",
+        "salary": 28723
+      },
+      {
+        "country": "SWEDEN",
+        "salary": 39016
+      },
+      {
+        "country": "CYPRUS",
+        "salary": 27817
+      },
+      {
+        "country": "FRANCE",
+        "salary": 40796
+      },
+      {
+        "country": "GERMANY",
+        "salary": 39634
+      },
+      {
+        "country": "REPUBLIC OF IRELAND",
+        "salary": 33321
+      },
+      {
+        "country": "ITALY",
+        "salary": 33187
+      },
+      {
+        "country": "UNITED KINGDOM",
+        "salary": 45141
+      },
+      {
+        "country": "GREECE",
+        "salary": 23801
+      },
+      {
+        "country": "NETHERLANDS",
+        "salary": 37345
+      },
+      {
+        "country": "PORTUGAL",
+        "salary": 22645
+      },
+      {
+        "country": "SWITZERLAND",
+        "salary": 75890
+      }
+    ]
+  },
+  {
+    "job": "Fitness Instructor",
+    "countries": [
+      {
+        "country": "SPAIN",
+        "salary": 27856
+      },
+      {
+        "country": "SWEDEN",
+        "salary": 37914
+      },
+      {
+        "country": "CYPRUS",
+        "salary": 28395
+      },
+      {
+        "country": "FRANCE",
+        "salary": 41865
+      },
+      {
+        "country": "GERMANY",
+        "salary": 35718
+      },
+      {
+        "country": "REPUBLIC OF IRELAND",
+        "salary": 32269
+      },
+      {
+        "country": "ITALY",
+        "salary": 30115
+      },
+      {
+        "country": "UNITED KINGDOM",
+        "salary": 42697
+      },
+      {
+        "country": "GREECE",
+        "salary": 30476
+      },
+      {
+        "country": "NETHERLANDS",
+        "salary": 40215
+      },
+      {
+        "country": "PORTUGAL",
+        "salary": 23239
+      },
+      {
+        "country": "SWITZERLAND",
+        "salary": 71322
+      }
+    ]
+  },
+  {
+    "job": "HR Manager",
+    "countries": [
+      {
+        "country": "SPAIN",
+        "salary": 47846
+      },
+      {
+        "country": "SWEDEN",
+        "salary": 67332
+      },
+      {
+        "country": "CYPRUS",
+        "salary": 49589
+      },
+      {
+        "country": "FRANCE",
+        "salary": 73273
+      },
+      {
+        "country": "GERMANY",
+        "salary": 63956
+      },
+      {
+        "country": "REPUBLIC OF IRELAND",
+        "salary": 53050
+      },
+      {
+        "country": "ITALY",
+        "salary": 55932
+      },
+      {
+        "country": "UNITED KINGDOM",
+        "salary": 75136
+      },
+      {
+        "country": "GREECE",
+        "salary": 41071
+      },
+      {
+        "country": "NETHERLANDS",
+        "salary": 64972
+      },
+      {
+        "country": "PORTUGAL",
+        "salary": 40673
+      },
+      {
+        "country": "SWITZERLAND",
+        "salary": 125231
+      }
+    ]
+  },
+  {
+    "job": "IT Consultant",
+    "countries": [
+      {
+        "country": "SPAIN",
+        "salary": 34833
+      },
+      {
+        "country": "SWEDEN",
+        "salary": 49115
+      },
+      {
+        "country": "CYPRUS",
+        "salary": 34345
+      },
+      {
+        "country": "FRANCE",
+        "salary": 51104
+      },
+      {
+        "country": "GERMANY",
+        "salary": 47795
+      },
+      {
+        "country": "REPUBLIC OF IRELAND",
+        "salary": 44255
+      },
+      {
+        "country": "ITALY",
+        "salary": 42095
+      },
+      {
+        "country": "UNITED KINGDOM",
+        "salary": 53304
+      },
+      {
+        "country": "GREECE",
+        "salary": 31611
+      },
+      {
+        "country": "NETHERLANDS",
+        "salary": 49601
+      },
+      {
+        "country": "PORTUGAL",
+        "salary": 31611
+      },
+      {
+        "country": "SWITZERLAND",
+        "salary": 95753
+      }
+    ]
+  },
+  {
+    "job": "Journalist (Editor)",
+    "countries": [
+      {
+        "country": "SPAIN",
+        "salary": 35415
+      },
+      {
+        "country": "SWEDEN",
+        "salary": 49257
+      },
+      {
+        "country": "CYPRUS",
+        "salary": 34743
+      },
+      {
+        "country": "FRANCE",
+        "salary": 49520
+      },
+      {
+        "country": "GERMANY",
+        "salary": 44795
+      },
+      {
+        "country": "REPUBLIC OF IRELAND",
+        "salary": 35313
+      },
+      {
+        "country": "ITALY",
+        "salary": 41238
+      },
+      {
+        "country": "UNITED KINGDOM",
+        "salary": 55673
+      },
+      {
+        "country": "GREECE",
+        "salary": 24213
+      },
+      {
+        "country": "NETHERLANDS",
+        "salary": 40187
+      },
+      {
+        "country": "PORTUGAL",
+        "salary": 26234
+      },
+      {
+        "country": "SWITZERLAND",
+        "salary": 80515
+      }
+    ]
+  },
+  {
+    "job": "Lawyer",
+    "countries": [
+      {
+        "country": "SPAIN",
+        "salary": 50529
+      },
+      {
+        "country": "SWEDEN",
+        "salary": 73742
+      },
+      {
+        "country": "CYPRUS",
+        "salary": 56032
+      },
+      {
+        "country": "FRANCE",
+        "salary": 75559
+      },
+      {
+        "country": "GERMANY",
+        "salary": 72329
+      },
+      {
+        "country": "REPUBLIC OF IRELAND",
+        "salary": 59327
+      },
+      {
+        "country": "ITALY",
+        "salary": 59801
+      },
+      {
+        "country": "UNITED KINGDOM",
+        "salary": 87662
+      },
+      {
+        "country": "GREECE",
+        "salary": 44977
+      },
+      {
+        "country": "NETHERLANDS",
+        "salary": 71726
+      },
+      {
+        "country": "PORTUGAL",
+        "salary": 41943
+      },
+      {
+        "country": "SWITZERLAND",
+        "salary": 145148
+      }
+    ]
+  },
+  {
+    "job": "Librarian",
+    "countries": [
+      {
+        "country": "SPAIN",
+        "salary": 23015
+      },
+      {
+        "country": "SWEDEN",
+        "salary": 33195
+      },
+      {
+        "country": "CYPRUS",
+        "salary": 25384
+      },
+      {
+        "country": "FRANCE",
+        "salary": 36489
+      },
+      {
+        "country": "GERMANY",
+        "salary": 31127
+      },
+      {
+        "country": "REPUBLIC OF IRELAND",
+        "salary": 26137
+      },
+      {
+        "country": "ITALY",
+        "salary": 27128
+      },
+      {
+        "country": "UNITED KINGDOM",
+        "salary": 38025
+      },
+      {
+        "country": "GREECE",
+        "salary": 18308
+      },
+      {
+        "country": "NETHERLANDS",
+        "salary": 30714
+      },
+      {
+        "country": "PORTUGAL",
+        "salary": 18128
+      },
+      {
+        "country": "SWITZERLAND",
+        "salary": 56926
+      }
+    ]
+  },
+  {
+    "job": "Midwife",
+    "countries": [
+      {
+        "country": "SPAIN",
+        "salary": 34085
+      },
+      {
+        "country": "SWEDEN",
+        "salary": 47499
+      },
+      {
+        "country": "CYPRUS",
+        "salary": 35154
+      },
+      {
+        "country": "FRANCE",
+        "salary": 50444
+      },
+      {
+        "country": "GERMANY",
+        "salary": 44271
+      },
+      {
+        "country": "REPUBLIC OF IRELAND",
+        "salary": 38444
+      },
+      {
+        "country": "ITALY",
+        "salary": 37186
+      },
+      {
+        "country": "UNITED KINGDOM",
+        "salary": 52275
+      },
+      {
+        "country": "GREECE",
+        "salary": 26918
+      },
+      {
+        "country": "NETHERLANDS",
+        "salary": 43414
+      },
+      {
+        "country": "PORTUGAL",
+        "salary": 28002
+      },
+      {
+        "country": "SWITZERLAND",
+        "salary": 89829
+      }
+    ]
+  },
+  {
+    "job": "Nurse",
+    "countries": [
+      {
+        "country": "SPAIN",
+        "salary": 28549
+      },
+      {
+        "country": "SWEDEN",
+        "salary": 39555
+      },
+      {
+        "country": "CYPRUS",
+        "salary": 27949
+      },
+      {
+        "country": "FRANCE",
+        "salary": 39341
+      },
+      {
+        "country": "GERMANY",
+        "salary": 37898
+      },
+      {
+        "country": "REPUBLIC OF IRELAND",
+        "salary": 32166
+      },
+      {
+        "country": "ITALY",
+        "salary": 31077
+      },
+      {
+        "country": "UNITED KINGDOM",
+        "salary": 42679
+      },
+      {
+        "country": "GREECE",
+        "salary": 22975
+      },
+      {
+        "country": "NETHERLANDS",
+        "salary": 38250
+      },
+      {
+        "country": "PORTUGAL",
+        "salary": 21838
+      },
+      {
+        "country": "SWITZERLAND",
+        "salary": 74709
+      }
+    ]
+  },
+  {
+    "job": "Paramedic",
+    "countries": [
+      {
+        "country": "SPAIN",
+        "salary": 29373
+      },
+      {
+        "country": "SWEDEN",
+        "salary": 40458
+      },
+      {
+        "country": "CYPRUS",
+        "salary": 30119
+      },
+      {
+        "country": "FRANCE",
+        "salary": 41692
+      },
+      {
+        "country": "GERMANY",
+        "salary": 39835
+      },
+      {
+        "country": "REPUBLIC OF IRELAND",
+        "salary": 33058
+      },
+      {
+        "country": "ITALY",
+        "salary": 31901
+      },
+      {
+        "country": "UNITED KINGDOM",
+        "salary": 47305
+      },
+      {
+        "country": "GREECE",
+        "salary": 24025
+      },
+      {
+        "country": "NETHERLANDS",
+        "salary": 37474
+      },
+      {
+        "country": "PORTUGAL",
+        "salary": 23143
+      },
+      {
+        "country": "SWITZERLAND",
+        "salary": 76314
+      }
+    ]
+  },
+  {
+    "job": "Personal Assistant",
+    "countries": [
+      {
+        "country": "SPAIN",
+        "salary": 22357
+      },
+      {
+        "country": "SWEDEN",
+        "salary": 30121
+      },
+      {
+        "country": "CYPRUS",
+        "salary": 21556
+      },
+      {
+        "country": "FRANCE",
+        "salary": 34088
+      },
+      {
+        "country": "GERMANY",
+        "salary": 30732
+      },
+      {
+        "country": "REPUBLIC OF IRELAND",
+        "salary": 24216
+      },
+      {
+        "country": "ITALY",
+        "salary": 24919
+      },
+      {
+        "country": "UNITED KINGDOM",
+        "salary": 35132
+      },
+      {
+        "country": "GREECE",
+        "salary": 18337
+      },
+      {
+        "country": "NETHERLANDS",
+        "salary": 28119
+      },
+      {
+        "country": "PORTUGAL",
+        "salary": 18922
+      },
+      {
+        "country": "SWITZERLAND",
+        "salary": 60483
+      }
+    ]
+  },
+  {
+    "job": "Pharmacist",
+    "countries": [
+      {
+        "country": "SPAIN",
+        "salary": 40160
+      },
+      {
+        "country": "SWEDEN",
+        "salary": 53887
+      },
+      {
+        "country": "CYPRUS",
+        "salary": 38636
+      },
+      {
+        "country": "FRANCE",
+        "salary": 60417
+      },
+      {
+        "country": "GERMANY",
+        "salary": 52433
+      },
+      {
+        "country": "REPUBLIC OF IRELAND",
+        "salary": 46497
+      },
+      {
+        "country": "ITALY",
+        "salary": 46217
+      },
+      {
+        "country": "UNITED KINGDOM",
+        "salary": 59964
+      },
+      {
+        "country": "GREECE",
+        "salary": 28734
+      },
+      {
+        "country": "NETHERLANDS",
+        "salary": 52309
+      },
+      {
+        "country": "PORTUGAL",
+        "salary": 31188
+      },
+      {
+        "country": "SWITZERLAND",
+        "salary": 104592
+      }
+    ]
+  },
+  {
+    "job": "Physiotherapist",
+    "countries": [
+      {
+        "country": "SPAIN",
+        "salary": 62752
+      },
+      {
+        "country": "SWEDEN",
+        "salary": 87431
+      },
+      {
+        "country": "CYPRUS",
+        "salary": 67963
+      },
+      {
+        "country": "FRANCE",
+        "salary": 97524
+      },
+      {
+        "country": "GERMANY",
+        "salary": 89886
+      },
+      {
+        "country": "REPUBLIC OF IRELAND",
+        "salary": 74323
+      },
+      {
+        "country": "ITALY",
+        "salary": 75558
+      },
+      {
+        "country": "UNITED KINGDOM",
+        "salary": 101062
+      },
+      {
+        "country": "GREECE",
+        "salary": 52041
+      },
+      {
+        "country": "NETHERLANDS",
+        "salary": 83931
+      },
+      {
+        "country": "PORTUGAL",
+        "salary": 54135
+      },
+      {
+        "country": "SWITZERLAND",
+        "salary": 173664
+      }
+    ]
+  },
+  {
+    "job": "Pilot",
+    "countries": [
+      {
+        "country": "SPAIN",
+        "salary": 40787
+      },
+      {
+        "country": "SWEDEN",
+        "salary": 55903
+      },
+      {
+        "country": "CYPRUS",
+        "salary": 43849
+      },
+      {
+        "country": "FRANCE",
+        "salary": 59944
+      },
+      {
+        "country": "GERMANY",
+        "salary": 57994
+      },
+      {
+        "country": "REPUBLIC OF IRELAND",
+        "salary": 46585
+      },
+      {
+        "country": "ITALY",
+        "salary": 45662
+      },
+      {
+        "country": "UNITED KINGDOM",
+        "salary": 65687
+      },
+      {
+        "country": "GREECE",
+        "salary": 33275
+      },
+      {
+        "country": "NETHERLANDS",
+        "salary": 56561
+      },
+      {
+        "country": "PORTUGAL",
+        "salary": 33275
+      },
+      {
+        "country": "SWITZERLAND",
+        "salary": 107028
+      }
+    ]
+  },
+  {
+    "job": "Police Officer",
+    "countries": [
+      {
+        "country": "SPAIN",
+        "salary": 26282
+      },
+      {
+        "country": "SWEDEN",
+        "salary": 37682
+      },
+      {
+        "country": "CYPRUS",
+        "salary": 27497
+      },
+      {
+        "country": "FRANCE",
+        "salary": 42865
+      },
+      {
+        "country": "GERMANY",
+        "salary": 36366
+      },
+      {
+        "country": "REPUBLIC OF IRELAND",
+        "salary": 30764
+      },
+      {
+        "country": "ITALY",
+        "salary": 30918
+      },
+      {
+        "country": "UNITED KINGDOM",
+        "salary": 42327
+      },
+      {
+        "country": "GREECE",
+        "salary": 22430
+      },
+      {
+        "country": "NETHERLANDS",
+        "salary": 35576
+      },
+      {
+        "country": "PORTUGAL",
+        "salary": 23794
+      },
+      {
+        "country": "SWITZERLAND",
+        "salary": 67171
+      }
+    ]
+  },
+  {
+    "job": "Receptionist",
+    "countries": [
+      {
+        "country": "SPAIN",
+        "salary": 24371
+      },
+      {
+        "country": "SWEDEN",
+        "salary": 35428
+      },
+      {
+        "country": "CYPRUS",
+        "salary": 26976
+      },
+      {
+        "country": "FRANCE",
+        "salary": 28509
+      },
+      {
+        "country": "GERMANY",
+        "salary": 28509
+      },
+      {
+        "country": "REPUBLIC OF IRELAND",
+        "salary": 21488
+      },
+      {
+        "country": "ITALY",
+        "salary": 29782
+      },
+      {
+        "country": "UNITED KINGDOM",
+        "salary": 29564
+      },
+      {
+        "country": "GREECE",
+        "salary": 15666
+      },
+      {
+        "country": "NETHERLANDS",
+        "salary": 24849
+      },
+      {
+        "country": "PORTUGAL",
+        "salary": 15825
+      },
+      {
+        "country": "SWITZERLAND",
+        "salary": 54270
+      }
+    ]
+  },
+  {
+    "job": "Sales & Retail Assistants",
+    "countries": [
+      {
+        "country": "SPAIN",
+        "salary": 20108
+      },
+      {
+        "country": "SWEDEN",
+        "salary": 29060
+      },
+      {
+        "country": "CYPRUS",
+        "salary": 21122
+      },
+      {
+        "country": "FRANCE",
+        "salary": 30536
+      },
+      {
+        "country": "GERMANY",
+        "salary": 30536
+      },
+      {
+        "country": "REPUBLIC OF IRELAND",
+        "salary": 23340
+      },
+      {
+        "country": "ITALY",
+        "salary": 24528
+      },
+      {
+        "country": "UNITED KINGDOM",
+        "salary": 32383
+      },
+      {
+        "country": "GREECE",
+        "salary": 17297
+      },
+      {
+        "country": "NETHERLANDS",
+        "salary": 28187
+      },
+      {
+        "country": "PORTUGAL",
+        "salary": 16950
+      },
+      {
+        "country": "SWITZERLAND",
+        "salary": 55498
+      }
+    ]
+  },
+  {
+    "job": "Social Worker",
+    "countries": [
+      {
+        "country": "SPAIN",
+        "salary": 26670
+      },
+      {
+        "country": "SWEDEN",
+        "salary": 35488
+      },
+      {
+        "country": "CYPRUS",
+        "salary": 25542
+      },
+      {
+        "country": "FRANCE",
+        "salary": 39029
+      },
+      {
+        "country": "GERMANY",
+        "salary": 39029
+      },
+      {
+        "country": "REPUBLIC OF IRELAND",
+        "salary": 23340
+      },
+      {
+        "country": "ITALY",
+        "salary": 29597
+      },
+      {
+        "country": "UNITED KINGDOM",
+        "salary": 29860
+      },
+      {
+        "country": "GREECE",
+        "salary": 28019
+      },
+      {
+        "country": "NETHERLANDS",
+        "salary": 32022
+      },
+      {
+        "country": "PORTUGAL",
+        "salary": 19928
+      },
+      {
+        "country": "SWITZERLAND",
+        "salary": 65958
+      }
+    ]
+  },
+  {
+    "job": "Teacher",
+    "countries": [
+      {
+        "country": "SPAIN",
+        "salary": 26954
+      },
+      {
+        "country": "SWEDEN",
+        "salary": 35411
+      },
+      {
+        "country": "CYPRUS",
+        "salary": 28371
+      },
+      {
+        "country": "FRANCE",
+        "salary": 37772
+      },
+      {
+        "country": "GERMANY",
+        "salary": 37772
+      },
+      {
+        "country": "REPUBLIC OF IRELAND",
+        "salary": 31605
+      },
+      {
+        "country": "ITALY",
+        "salary": 29779
+      },
+      {
+        "country": "UNITED KINGDOM",
+        "salary": 42344
+      },
+      {
+        "country": "GREECE",
+        "salary": 21275
+      },
+      {
+        "country": "NETHERLANDS",
+        "salary": 31814
+      },
+      {
+        "country": "PORTUGAL",
+        "salary": 21708
+      },
+      {
+        "country": "SWITZERLAND",
+        "salary": 73286
+      }
+    ]
+  },
+  {
+    "job": "Teaching Assistant",
+    "countries": [
+      {
+        "country": "SPAIN",
+        "salary": 22706
+      },
+      {
+        "country": "SWEDEN",
+        "salary": 32205
+      },
+      {
+        "country": "CYPRUS",
+        "salary": 23626
+      },
+      {
+        "country": "FRANCE",
+        "salary": 32334
+      },
+      {
+        "country": "GERMANY",
+        "salary": 32334
+      },
+      {
+        "country": "REPUBLIC OF IRELAND",
+        "salary": 26968
+      },
+      {
+        "country": "ITALY",
+        "salary": 27490
+      },
+      {
+        "country": "UNITED KINGDOM",
+        "salary": 35660
+      },
+      {
+        "country": "GREECE",
+        "salary": 19639
+      },
+      {
+        "country": "NETHERLANDS",
+        "salary": 36994
+      },
+      {
+        "country": "PORTUGAL",
+        "salary": 17949
+      },
+      {
+        "country": "SWITZERLAND",
+        "salary": 64126
+      }
+    ]
+  },
+  {
+    "job": "Telephone Salesperson",
+    "countries": [
+      {
+        "country": "SPAIN",
+        "salary": 19129
+      },
+      {
+        "country": "SWEDEN",
+        "salary": 27261
+      },
+      {
+        "country": "CYPRUS",
+        "salary": 20982
+      },
+      {
+        "country": "FRANCE",
+        "salary": 29082
+      },
+      {
+        "country": "GERMANY",
+        "salary": 29082
+      },
+      {
+        "country": "REPUBLIC OF IRELAND",
+        "salary": 27679
+      },
+      {
+        "country": "ITALY",
+        "salary": 22456
+      },
+      {
+        "country": "UNITED KINGDOM",
+        "salary": 33215
+      },
+      {
+        "country": "GREECE",
+        "salary": 16642
+      },
+      {
+        "country": "NETHERLANDS",
+        "salary": 33520
+      },
+      {
+        "country": "PORTUGAL",
+        "salary": 16143
+      },
+      {
+        "country": "SWITZERLAND",
+        "salary": 63261
+      }
+    ]
+  },
+  {
+    "job": "Train Driver",
+    "countries": [
+      {
+        "country": "SPAIN",
+        "salary": 20004
+      },
+      {
+        "country": "SWEDEN",
+        "salary": 28623
+      },
+      {
+        "country": "CYPRUS",
+        "salary": 21982
+      },
+      {
+        "country": "FRANCE",
+        "salary": 30848
+      },
+      {
+        "country": "GERMANY",
+        "salary": 30848
+      },
+      {
+        "country": "REPUBLIC OF IRELAND",
+        "salary": 24216
+      },
+      {
+        "country": "ITALY",
+        "salary": 25134
+      },
+      {
+        "country": "UNITED KINGDOM",
+        "salary": 33054
+      },
+      {
+        "country": "GREECE",
+        "salary": 16604
+      },
+      {
+        "country": "NETHERLANDS",
+        "salary": 31133
+      },
+      {
+        "country": "PORTUGAL",
+        "salary": 17124
+      },
+      {
+        "country": "SWITZERLAND",
+        "salary": 58059
+      }
+    ]
+  },
+  {
+    "job": "Travel Agent",
+    "countries": [
+      {
+        "country": "SPAIN",
+        "salary": 28133
+      },
+      {
+        "country": "SWEDEN",
+        "salary": 39197
+      },
+      {
+        "country": "CYPRUS",
+        "salary": 30469
+      },
+      {
+        "country": "FRANCE",
+        "salary": 43721
+      },
+      {
+        "country": "GERMANY",
+        "salary": 43721
+      },
+      {
+        "country": "REPUBLIC OF IRELAND",
+        "salary": 37469
+      },
+      {
+        "country": "ITALY",
+        "salary": 33874
+      },
+      {
+        "country": "UNITED KINGDOM",
+        "salary": 45307
+      },
+      {
+        "country": "GREECE",
+        "salary": 23331
+      },
+      {
+        "country": "NETHERLANDS",
+        "salary": 37628
+      },
+      {
+        "country": "PORTUGAL",
+        "salary": 24270
+      },
+      {
+        "country": "SWITZERLAND",
+        "salary": 77856
+      }
+    ]
+  },
+  {
+    "job": "Vet",
+    "countries": [
+      {
+        "country": "SPAIN",
+        "salary": 36860
+      },
+      {
+        "country": "SWEDEN",
+        "salary": 52103
+      },
+      {
+        "country": "CYPRUS",
+        "salary": 40282
+      },
+      {
+        "country": "FRANCE",
+        "salary": 60211
+      },
+      {
+        "country": "GERMANY",
+        "salary": 60211
+      },
+      {
+        "country": "REPUBLIC OF IRELAND",
+        "salary": 44543
+      },
+      {
+        "country": "ITALY",
+        "salary": 46155
+      },
+      {
+        "country": "UNITED KINGDOM",
+        "salary": 64024
+      },
+      {
+        "country": "GREECE",
+        "salary": 31816
+      },
+      {
+        "country": "NETHERLANDS",
+        "salary": 50890
+      },
+      {
+        "country": "PORTUGAL",
+        "salary": 33423
+      },
+      {
+        "country": "SWITZERLAND",
+        "salary": 105546
+      }
+    ]
+  },
+  {
+    "job": "Waiter / Waitress",
+    "countries": [
+      {
+        "country": "SPAIN",
+        "salary": 20836
+      },
+      {
+        "country": "SWEDEN",
+        "salary": 29205
+      },
+      {
+        "country": "CYPRUS",
+        "salary": 21552
+      },
+      {
+        "country": "FRANCE",
+        "salary": 31473
+      },
+      {
+        "country": "GERMANY",
+        "salary": 31473
+      },
+      {
+        "country": "REPUBLIC OF IRELAND",
+        "salary": 24701
+      },
+      {
+        "country": "ITALY",
+        "salary": 25134
+      },
+      {
+        "country": "UNITED KINGDOM",
+        "salary": 34394
+      },
+      {
+        "country": "GREECE",
+        "salary": 16950
+      },
+      {
+        "country": "NETHERLANDS",
+        "salary": 29256
+      },
+      {
+        "country": "PORTUGAL",
+        "salary": 17471
+      },
+      {
+        "country": "SWITZERLAND",
+        "salary": 58059
+      }
+    ]
+  },
+  {
+    "job": "Window Cleaner",
+    "countries": [
+      {
+        "country": "SPAIN",
+        "salary": 14568
+      },
+      {
+        "country": "SWEDEN",
+        "salary": 19098
+      },
+      {
+        "country": "CYPRUS",
+        "salary": 14581
+      },
+      {
+        "country": "FRANCE",
+        "salary": 21337
+      },
+      {
+        "country": "GERMANY",
+        "salary": 21337
+      },
+      {
+        "country": "REPUBLIC OF IRELAND",
+        "salary": 16241
+      },
+      {
+        "country": "ITALY",
+        "salary": 17197
+      },
+      {
+        "country": "UNITED KINGDOM",
+        "salary": 23462
+      },
+      {
+        "country": "GREECE",
+        "salary": 12783
+      },
+      {
+        "country": "NETHERLANDS",
+        "salary": 18791
+      },
+      {
+        "country": "PORTUGAL",
+        "salary": 11839
+      },
+      {
+        "country": "SWITZERLAND",
+        "salary": 48665
+      }
+    ]
+  }
+]

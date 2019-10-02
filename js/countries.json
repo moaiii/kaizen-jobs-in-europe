@@ -1,0 +1,110 @@
+[
+  {
+    "name": "FRANCE",
+    "icon": "France.png",
+    "average_cost_of_living_index": 114.22,
+    "actual_weekly_hours_worked": 35,
+    "average_paid_leave": 25,
+    "average_income": 54048,
+    "score": 6.41
+  },
+  {
+    "name": "SPAIN",
+    "icon": "Spain.png",
+    "average_cost_of_living_index": 83.79,
+    "actual_weekly_hours_worked": 40,
+    "average_paid_leave": 22,
+    "average_income": 33502,
+    "score": 5.88
+  },
+  {
+    "name": "SWEDEN",
+    "icon": "Sweden.png",
+    "average_cost_of_living_index": 107.32,
+    "actual_weekly_hours_worked": 40,
+    "average_paid_leave": 25,
+    "average_income": 47173,
+    "score": 5.73
+  },
+  {
+    "name": "GERMANY",
+    "icon": "Germany.png",
+    "average_cost_of_living_index": 101.9,
+    "actual_weekly_hours_worked": 40,
+    "average_paid_leave": 20,
+    "average_income": 49580,
+    "score": 6.71
+  },
+  {
+    "name": "ITALY",
+    "icon": "Italy.png",
+    "average_cost_of_living_index": 105.65,
+    "actual_weekly_hours_worked": 40,
+    "average_paid_leave": 20,
+    "average_income": 39205,
+    "score": 5.42
+  },
+  {
+    "name": "UNITED KINGDOM",
+    "icon": "United-Kingdom.png",
+    "average_cost_of_living_index": 100,
+    "actual_weekly_hours_worked": 40,
+    "average_paid_leave": 28,
+    "average_income": 55529,
+    "score": 5.04
+  },
+  {
+    "name": "GREECE",
+    "icon": "Grecee.png",
+    "average_cost_of_living_index": 86.82,
+    "actual_weekly_hours_worked": 42,
+    "average_paid_leave": 29,
+    "average_income": 30281,
+    "score": 4.8
+  },
+  {
+    "name": "PORTUGAL",
+    "icon": "Portugal.png",
+    "average_cost_of_living_index": 77.71,
+    "actual_weekly_hours_worked": 40,
+    "average_paid_leave": 22,
+    "average_income": 30027,
+    "score": 5.02
+  },
+  {
+    "name": "REPUBLIC OF IRELAND",
+    "icon": "Ireland.png",
+    "average_cost_of_living_index": 117.43,
+    "actual_weekly_hours_worked": 40,
+    "average_paid_leave": 20,
+    "average_income": 30320,
+    "score": 4.54
+  },
+  {
+    "name": "NETHERLANDS",
+    "icon": "Netherlands.png",
+    "average_cost_of_living_index": 115.14,
+    "actual_weekly_hours_worked": 40,
+    "average_paid_leave": 20,
+    "average_income": 48186,
+    "score": 5.83
+  },
+  {
+    "name": "CYPRUS",
+    "icon": "Cyprus.png",
+    "average_cost_of_living_index": 86.82,
+    "actual_weekly_hours_worked": 40,
+    "average_paid_leave": 28,
+    "average_income": 36579,
+    "score": 3.96
+  },
+  {
+    "name": "SWITZERLAND",
+    "icon": "Switzerland.png",
+    "average_cost_of_living_index": 187.77,
+    "actual_weekly_hours_worked": 42,
+    "average_paid_leave": 20,
+    "average_income": 92437,
+    "score": 3.96
+  }
+]
