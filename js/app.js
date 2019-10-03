@@ -10,6 +10,8 @@ var dollarButton = $(".dollar");
 var euroButton = $(".euro");
 var uk = true;
 var isMobile = false;
+var job_table_last_sort = [0, "asc"];
+var country_table_last_sort = [0, "asc"];
 
 $(function() {
   // Check to see if the user is in the UK
@@ -113,10 +115,10 @@ $(function() {
     e.preventDefault();
     if ($(".facts-con").hasClass("show")) {
       $(".facts-con").removeClass("show");
-      $(".content").css("top", 42 + $("#header").outerHeight() + "px");
+      // $(".content").css("top", 42 + $("#header").outerHeight() + "px");
     } else {
       $(".facts-con").addClass("show");
-      $("#search .content").css("top", 192 + $("#header").outerHeight() + "px");
+      // $("#search .content").css("top", 192 + $("#header").outerHeight() + "px");
     }
   });
 
@@ -153,12 +155,10 @@ function changeCurrency(rate, symbol, currency_name) {
   }
 
   if (desired_table === "job") {
-    console.log("GET specific_country_table", specific_country_table);
     showTable("#jobsTable", specific_country_table);
   }
 
   if (desired_table === "country") {
-    console.log("GET specific_job_table", specific_job_table);
     showTable("#countryTable", specific_job_table);
   }
 }
@@ -170,7 +170,7 @@ function pickJob() {
   if (isMobile) {
     $(".sub-section").removeClass("open");
     $(".sub-section").hide();
-    $("#search .content").css("top", $("#header").outerHeight() + "px");
+    // $("#search .content").css("top", $("#header").outerHeight() + "px");
   } else {
     $(".countryInfoMsg").show();
   }
@@ -218,7 +218,7 @@ function pickJob() {
   }, 200);
 
   specific_job_table = specific_job_array;
-  console.log("SET specific_job_table", specific_job_table);
+  // console.log("SET specific_job_table", specific_job_table);
 
   // Show table based on data
   showTable("#countryTable", specific_job_array);
@@ -285,7 +285,7 @@ function pickCountry() {
 
   if (isMobile) {
     $(".sub-section").show();
-    $("#search .content").css("top", 192 + $("#header").outerHeight() + "px");
+    // $("#search .content").css("top", 192 + $("#header").outerHeight() + "px");
   }
 
   setTimeout(function() {
@@ -293,13 +293,13 @@ function pickCountry() {
   }, 200);
 
   specific_country_table = specific_country_array;
-  console.log("SET specific_country_table", specific_country_table);
+  // console.log("SET specific_country_table", specific_country_table);
 
   showTable("#jobsTable", specific_country_array);
 }
 
 function showTable(table, array) {
-  console.log({ desired_table, array });
+  // console.log({ desired_table, array });
 
   if ($.fn.DataTable.isDataTable("#countryTable")) {
     $("#countryTable")
@@ -330,11 +330,15 @@ function showTable(table, array) {
 
   if (table == "#countryTable") {
     $.each(array, function(i, v) {
+      console.log(v.name, v.score);
+
       $(" " + table + " tbody ").append(
         '<tr class=" ' +
-          (v.name == "United Kingdom" && uk ? "selected" : "") +
+          (v.name === "UNITED KINGDOM" ? "selected" : "") +
           ' " >' +
-          "<td>1</td>" +
+          "<td>" +
+          v.score +
+          "</td>" +
           '<td><img class="flag" src="./img/icons/' +
           v.icon +
           '"> ' +
@@ -360,7 +364,9 @@ function showTable(table, array) {
     $.each(array, function(i, v) {
       $(" " + table + " tbody ").append(
         "<tr>" +
-          "<td>1</td>" +
+          "<td>" +
+          v.score +
+          "</td>" +
           '<td><img class="flag" src="https://s3-eu-west-1.amazonaws.com/totallymoney/content/jobseurope/img/icons/' +
           v.name
             .replace(/\s+/g, "-")
@@ -381,27 +387,34 @@ function showTable(table, array) {
   $(" " + table + " ").show();
 
   if (table == "#countryTable") {
-    var rank = 0;
+    // var rank = 0;
     $(" " + table + " ").DataTable({
       paging: false,
       bLengthChange: false,
       bInfo: false,
-      order: [5, "desc"],
+      order: country_table_last_sort,
       initComplete: function() {
-        var rank = 1;
+        // var rank = 1;
         var tab = this;
         $("#countryTable tbody tr").each(function() {
-          $(this)
-            .find("td")
-            .first()
-            .text(rank);
-          rank++;
+          // $(this)
+          //   .find("td")
+          //   .first()
+          //   .text(rank);
+          // rank++;
           tab
             .api()
             .row($(this))
             .invalidate()
             .draw();
         });
+      },
+      drawCallback: function(settings) {
+        country_table_last_sort = [
+          settings.aLastSort[0].col,
+          settings.aLastSort[0].dir
+        ];
+        // console.log(country_table_last_sort);
       }
     });
   } else {
@@ -410,22 +423,29 @@ function showTable(table, array) {
       searching: false,
       bLengthChange: false,
       bInfo: false,
-      order: [2, "desc"],
+      order: job_table_last_sort,
       initComplete: function() {
-        var rank = 1;
+        // var rank = 1;
         var tab = this;
         $("#jobsTable tbody tr").each(function() {
-          $(this)
-            .find("td")
-            .first()
-            .text(rank);
-          rank++;
+          // $(this)
+          //   .find("td")
+          //   .first()
+          //   .text(rank);
+          // rank++;
           tab
             .api()
             .row($(this))
             .invalidate()
             .draw();
         });
+      },
+      drawCallback: function(settings) {
+        job_table_last_sort = [
+          settings.aLastSort[0].col,
+          settings.aLastSort[0].dir
+        ];
+        // console.log(job_table_last_sort);
       }
     });
   }
@@ -475,6 +495,8 @@ function resetTable() {
 
 function discover() {
   // Add Overlay
+  $("#search").addClass("unhide");
+
   $(".overlay").addClass("show");
 
   var clicks = 0;
@@ -516,7 +538,9 @@ function discover() {
         $(".table-head")
           .clone()
           .appendTo(".overlay");
+
         $(".overlay .table-head").append($("#countryTable").clone());
+
         $(".overlay .table-head").css({
           position: "absolute",
           left: 0,
@@ -538,8 +562,36 @@ function discover() {
         );
       } else if (clicks == 2) {
         $(".overlay")
+          .find(".table-head")
+          .remove();
+
+        $(".overlay")
           .find(".innercontent")
           .remove();
+
+        $(".currency-mobile")
+          .clone()
+          .appendTo(".overlay");
+
+        $(".overlay .currency-mobile").css({
+          position: "absolute",
+          bottom: 69 + "px",
+          right: 0,
+          display: "flex"
+        });
+
+        $(".overlay").append(
+          '<div class="innercontent"><div class="container"><div class="row"><div class="col-sm-4 col-sm-offset-4 text-center"><p class="bold mb-50">Use the toggles to switch between currencies</p><button class="btn btn-yellow">Next</button></div></div></div></div>'
+        );
+      } else if (clicks == 3) {
+        $(".overlay")
+          .find(".innercontent")
+          .remove();
+
+        $(".overlay")
+          .find(".currency-mobile")
+          .remove();
+
         $(".overlay").append(
           '<div class="innercontent"><div class="container"><div class="row"><div class="col-sm-4 col-sm-offset-4 text-center"><p class="bold mb-50">Scroll right to view more data</p><button class="btn btn-yellow">Got It</button></div></div></div></div>'
         );
@@ -568,6 +620,7 @@ function discover() {
 
     $(document).on("click", ".overlay .btn", function() {
       if (clicks == 0) {
+        // click 1
         $(".overlay").html("");
         $(".search-drop-form  .bootstrap-select.choose-by-country")
           .clone()
@@ -582,6 +635,7 @@ function discover() {
           '<div class="innercontent"><div class="container"><div class="row"><div class="col-sm-4 col-sm-offset-4 text-center"><p class="bold mb-50">Pick a country and discover its top-paying jobs.</p><button class="btn btn-yellow">Next</button></div></div></div></div>'
         );
       } else if (clicks == 1) {
+        // click 2
         $(".overlay").html("");
 
         $(".table-head")
@@ -604,7 +658,32 @@ function discover() {
         $(".overlay").append(
           '<div class="innercontent"><div class="container"><div class="row"><div class="col-sm-4 col-sm-offset-4 text-center"><p class="bold mb-50">Click the column headers to change how the table is sorted.</p><button class="btn btn-yellow">Got It</button></div></div></div></div>'
         );
+      } else if (clicks == 2) {
+        $(".overlay")
+          .find(".table-head")
+          .remove();
+
+        $(".overlay")
+          .find(".innercontent")
+          .remove();
+
+        $(".currency-selector")
+          .clone()
+          .appendTo(".overlay");
+
+        $(".overlay .currency-selector").css({
+          position: "absolute",
+          top: 31 + "px",
+          // prettier-ignore
+          right: ((window.innerWidth / 2) - (158 / 2)) + "px",
+          display: "flex"
+        });
+
+        $(".overlay").append(
+          '<div class="innercontent"><div class="container"><div class="row"><div class="col-sm-4 col-sm-offset-4 text-center"><p class="bold mb-50">Use the toggles to switch between currencies</p><button class="btn btn-yellow">Next</button></div></div></div></div>'
+        );
       } else {
+        // click 3
         $(".overlay").removeClass("show");
         $(".overlay").html("");
       }
@@ -641,12 +720,14 @@ function restartTool() {
   if (isMobile) {
     $(".sub-section").removeClass("open");
     $(".sub-section").hide();
-    $("#search .content").css("top", $("#header").outerHeight() + "px");
+    // $("#search .content").css("top", $("#header").outerHeight() + "px");
   }
 
   showTable("#countryTable", country_array);
   return false;
 }
+
+function reorderApplied(index, direction) {}
 
 $(window).resize(function() {
   checkMobile();

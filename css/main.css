@@ -169,6 +169,7 @@ a:focus {
 /***** Slides *****/
 #slides {
   position: relative;
+  /* z-index: 9999999; */
   width: 100%;
   height: 100%;
 }
@@ -180,7 +181,7 @@ a:focus {
   bottom: 0;
   height: 100%;
   background: #fff;
-  overflow: hidden;
+  /* overflow: hidden; */
 }
 #slides > .section:first-child {
   z-index: 4;
@@ -188,7 +189,8 @@ a:focus {
 
 /****** Welcome *****/
 #welcome {
-  background: url(../img/background.png) no-repeat center !important;
+  background: url(https://kaizen-jobs-in-europe.s3-eu-west-1.amazonaws.com/img/Background.png)
+    no-repeat center !important;
   background-size: cover !important;
   color: #fff;
   transition: all 1s ease;
@@ -204,17 +206,12 @@ a:focus {
   color: rgba(255, 255, 255, 0.7);
 }
 
-/***** Search *****/
-
-#search {
-  overflow-y: scroll !important;
-}
-
 #search #header {
   height: 100px;
   position: relative;
   z-index: 2;
-  background: url(../img/background.png) #30434b no-repeat center;
+  background: url(https://kaizen-jobs-in-europe.s3-eu-west-1.amazonaws.com/img/Background.png)
+    #30434b no-repeat center;
   background-size: cover;
 }
 #search #header > div {
@@ -280,7 +277,7 @@ a:focus {
   border-radius: 0;
   color: #30434b;
   font-family: "nexa-bold";
-  font-size: 18px;
+  font-size: 13px;
   line-height: normal;
   padding: 8px 15px 6px 15px;
   text-transform: uppercase;
@@ -469,7 +466,7 @@ a:focus {
   background: rgba(28, 2, 126, 1);
 }
 table.dataTable {
-  margin: 0 !important;
+  /* margin: 0 !important; */
   padding: 0;
   margin-top: -91px !important;
 }
@@ -581,7 +578,7 @@ table.dataTable thead tr th:first-child:after {
   left: 0;
   right: 0;
   bottom: 0;
-  background: rgba(16, 8, 58, 0.8);
+  background: rgba(16, 8, 58, 0.9);
   z-index: 99;
   opacity: 0;
   visibility: hidden;
@@ -1069,7 +1066,7 @@ input[type="radio"] .styled:checked + label::after {
     background: #93bed6;
   }
   table.dataTable {
-    margin: 0 !important;
+    /* margin: 0 !important; */
   }
 
   .mobile-nav {
@@ -1396,4 +1393,136 @@ td .sorting_1 {
 
 button {
   font-family: "b-aries" !important;
+}
+
+.overlay > .table-head > table#countryTable {
+  margin: 0 auto !important;
+}
+
+.section.search {
+  opacity: 0;
+  overflow-y: scroll !important;
+  transition: opacity 0.5s ease-in;
+}
+
+.section.search.unhide {
+  transition: opacity 0.5s ease-in;
+  opacity: 1;
+}
+
+@media (max-width: 500px) {
+  .section#welcome .container {
+    width: 80%;
+  }
+  .section#welcome ul {
+    margin: 1rem 0 0 0;
+  }
+  .section#welcome p.bold {
+    line-height: 1.4;
+  }
+  .section#welcome ul li {
+    margin: 1rem auto;
+    line-height: 1.4;
+    max-width: 90%;
+  }
+}
+
+.currency-mobile {
+  display: none;
+}
+
+@media (max-width: 500px) {
+  .at-share-dock-outer {
+    display: none;
+  }
+  .nav.nav-tabs.show-on-sm.mobile-nav {
+    display: flex;
+    flex-direction: column;
+  }
+  .currency-mobile {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  }
+  .currency-mobile button {
+    width: 33.3333%;
+    background: #0f0a38;
+    padding: 1rem;
+  }
+  .currency-mobile button i {
+    color: #fff;
+  }
+  .currency-mobile button:active {
+    width: 33.3333%;
+    background: #f2e146 !important;
+    border: none !important;
+    box-shadow: none !important;
+  }
+  .currency-mobile button:active i {
+    color: #0f0a38 !important;
+  }
+  .listers {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  }
+  .nav.nav-tabs.show-on-sm.mobile-nav li {
+    width: 50%;
+  }
+  .currency-selector {
+    display: none;
+  }
+  #header {
+    height: 80px;
+    padding: 0;
+  }
+}
+
+@media (max-width: 500px) {
+  table.dataTable {
+    margin-top: 0 !important;
+  }
+
+  #search #header {
+    height: 80px;
+    padding: 0;
+    /* opacity: 0; */
+  }
+
+  #search .content {
+    /* overflow-x: none;
+    overflow-y: none; */
+    position: relative;
+    top: 0;
+    bottom: 0;
+  }
+
+  .small-logo {
+    transform: scale(0.8);
+  }
+
+  #search #header > div > ul {
+    display: flex;
+    align-items: center;
+  }
+
+  .listers button {
+    background-color: #0f0a38 !important;
+  }
+
+  .listers button i {
+    color: white !important;
+  }
+
+  .choose-by-country {
+    border-left: 1px solid white;
+  }
+}
+
+.glyphicon {
+  color: #0f0a38 !important;
+}
+
+.bs-caret .caret {
+  color: #0f0a38 !important;
 }

@@ -6,7 +6,7 @@
     "actual_weekly_hours_worked": 35,
     "average_paid_leave": 25,
     "average_income": 54048,
-    "score": 6.41
+    "score": 1
   },
   {
     "name": "SPAIN",
@@ -15,7 +15,7 @@
     "actual_weekly_hours_worked": 40,
     "average_paid_leave": 22,
     "average_income": 33502,
-    "score": 5.88
+    "score": 5
   },
   {
     "name": "SWEDEN",
@@ -24,7 +24,7 @@
     "actual_weekly_hours_worked": 40,
     "average_paid_leave": 25,
     "average_income": 47173,
-    "score": 5.73
+    "score": 2
   },
   {
     "name": "GERMANY",
@@ -33,7 +33,7 @@
     "actual_weekly_hours_worked": 40,
     "average_paid_leave": 20,
     "average_income": 49580,
-    "score": 6.71
+    "score": 10
   },
   {
     "name": "ITALY",
@@ -42,7 +42,7 @@
     "actual_weekly_hours_worked": 40,
     "average_paid_leave": 20,
     "average_income": 39205,
-    "score": 5.42
+    "score": 7
   },
   {
     "name": "UNITED KINGDOM",
@@ -51,7 +51,7 @@
     "actual_weekly_hours_worked": 40,
     "average_paid_leave": 28,
     "average_income": 55529,
-    "score": 5.04
+    "score": 3
   },
   {
     "name": "GREECE",
@@ -60,7 +60,7 @@
     "actual_weekly_hours_worked": 42,
     "average_paid_leave": 29,
     "average_income": 30281,
-    "score": 4.8
+    "score": 4
   },
   {
     "name": "PORTUGAL",
@@ -69,7 +69,7 @@
     "actual_weekly_hours_worked": 40,
     "average_paid_leave": 22,
     "average_income": 30027,
-    "score": 5.02
+    "score": 8
   },
   {
     "name": "REPUBLIC OF IRELAND",
@@ -78,7 +78,7 @@
     "actual_weekly_hours_worked": 40,
     "average_paid_leave": 20,
     "average_income": 30320,
-    "score": 4.54
+    "score": 12
   },
   {
     "name": "NETHERLANDS",
@@ -87,7 +87,7 @@
     "actual_weekly_hours_worked": 40,
     "average_paid_leave": 20,
     "average_income": 48186,
-    "score": 5.83
+    "score": 11
   },
   {
     "name": "CYPRUS",
@@ -96,7 +96,7 @@
     "actual_weekly_hours_worked": 40,
     "average_paid_leave": 28,
     "average_income": 36579,
-    "score": 3.96
+    "score": 6
   },
   {
     "name": "SWITZERLAND",
@@ -105,6 +105,6 @@
     "actual_weekly_hours_worked": 42,
     "average_paid_leave": 20,
     "average_income": 92437,
-    "score": 3.96
+    "score": 9
   }
 ]

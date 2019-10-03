@@ -4,51 +4,63 @@
     "countries": [
       {
         "country": "SPAIN",
-        "salary": 24447
+        "salary": 24447,
+        "score": 7
       },
       {
         "country": "SWEDEN",
-        "salary": 33806
+        "salary": 33806,
+        "score": 4
       },
       {
         "country": "CYPRUS",
-        "salary": 25118
+        "salary": 25118,
+        "score": 3
       },
       {
         "country": "FRANCE",
-        "salary": 35196
+        "salary": 35196,
+        "score": 6
       },
       {
         "country": "GERMANY",
-        "salary": 31620
+        "salary": 31620,
+        "score": 2
       },
       {
         "country": "REPUBLIC OF IRELAND",
-        "salary": 28444
+        "salary": 28444,
+        "score": 9
       },
       {
         "country": "ITALY",
-        "salary": 28413
+        "salary": 28413,
+        "score": 11
       },
       {
         "country": "UNITED KINGDOM",
-        "salary": 37487
+        "salary": 37487,
+        "score": 5
       },
       {
         "country": "GREECE",
-        "salary": 19148
+        "salary": 19148,
+        "score": 12
       },
       {
         "country": "NETHERLANDS",
-        "salary": 33295
+        "salary": 33295,
+        "score": 10
       },
       {
         "country": "PORTUGAL",
-        "salary": 19537
+        "salary": 19537,
+        "score": 8
       },
       {
         "country": "SWITZERLAND",
-        "salary": 65958
+        "salary": 65958,
+        "score": 1
       }
     ]
   },
@@ -57,51 +69,63 @@
     "countries": [
       {
         "country": "SPAIN",
-        "salary": 31473
+        "salary": 31473,
+        "score": 8
       },
       {
         "country": "SWEDEN",
-        "salary": 44725
+        "salary": 44725,
+        "score": 4
       },
       {
         "country": "CYPRUS",
-        "salary": 31167
+        "salary": 31167,
+        "score": 3
       },
       {
         "country": "FRANCE",
-        "salary": 47490
+        "salary": 47490,
+        "score": 5
       },
       {
         "country": "GERMANY",
-        "salary": 43355
+        "salary": 43355,
+        "score": 2
       },
       {
         "country": "REPUBLIC OF IRELAND",
-        "salary": 36178
+        "salary": 36178,
+        "score": 9
       },
       {
         "country": "ITALY",
-        "salary": 35698
+        "salary": 35698,
+        "score": 11
       },
       {
         "country": "UNITED KINGDOM",
-        "salary": 47107
+        "salary": 47107,
+        "score": 6
       },
       {
         "country": "GREECE",
-        "salary": 25750
+        "salary": 25750,
+        "score": 12
       },
       {
         "country": "NETHERLANDS",
-        "salary": 43375
+        "salary": 43375,
+        "score": 10
       },
       {
         "country": "PORTUGAL",
-        "salary": 26362
+        "salary": 26362,
+        "score": 7
       },
       {
         "country": "SWITZERLAND",
-        "salary": 86236
+        "salary": 86236,
+        "score": 1
       }
     ]
   },
@@ -110,51 +134,63 @@
     "countries": [
       {
         "country": "SPAIN",
-        "salary": 22962
+        "salary": 22962,
+        "score": 7
       },
       {
         "country": "SWEDEN",
-        "salary": 32057
+        "salary": 32057,
+        "score": 4
       },
       {
         "country": "CYPRUS",
-        "salary": 23704
+        "salary": 23704,
+        "score": 3
       },
       {
         "country": "FRANCE",
-        "salary": 34202
+        "salary": 34202,
+        "score": 6
       },
       {
         "country": "GERMANY",
-        "salary": 30565
+        "salary": 30565,
+        "score": 2
       },
       {
         "country": "REPUBLIC OF IRELAND",
-        "salary": 26312
+        "salary": 26312,
+        "score": 9
       },
       {
         "country": "ITALY",
-        "salary": 25878
+        "salary": 25878,
+        "score": 11
       },
       {
         "country": "UNITED KINGDOM",
-        "salary": 36055
+        "salary": 36055,
+        "score": 5
       },
       {
         "country": "GREECE",
-        "salary": 19488
+        "salary": 19488,
+        "score": 12
       },
       {
         "country": "NETHERLANDS",
-        "salary": 30182
+        "salary": 30182,
+        "score": 10
       },
       {
         "country": "PORTUGAL",
-        "salary": 18986
+        "salary": 18986,
+        "score": 8
       },
       {
         "country": "SWITZERLAND",
-        "salary": 61598
+        "salary": 61598,
+        "score": 1
       }
     ]
   },
@@ -163,51 +199,63 @@
     "countries": [
       {
         "country": "SPAIN",
-        "salary": 21398
+        "salary": 21398,
+        "score": 7
       },
       {
         "country": "SWEDEN",
-        "salary": 28652
+        "salary": 28652,
+        "score": 4
       },
       {
         "country": "CYPRUS",
-        "salary": 21639
+        "salary": 21639,
+        "score": 3
       },
       {
         "country": "FRANCE",
-        "salary": 30411
+        "salary": 30411,
+        "score": 6
       },
       {
         "country": "GERMANY",
-        "salary": 27196
+        "salary": 27196,
+        "score": 2
       },
       {
         "country": "REPUBLIC OF IRELAND",
-        "salary": 23149
+        "salary": 23149,
+        "score": 9
       },
       {
         "country": "ITALY",
-        "salary": 23799
+        "salary": 23799,
+        "score": 12
       },
       {
         "country": "UNITED KINGDOM",
-        "salary": 32785
+        "salary": 32785,
+        "score": 5
       },
       {
         "country": "GREECE",
-        "salary": 19488
+        "salary": 19488,
+        "score": 11
       },
       {
         "country": "NETHERLANDS",
-        "salary": 28351
+        "salary": 28351,
+        "score": 10
       },
       {
         "country": "PORTUGAL",
-        "salary": 16881
+        "salary": 16881,
+        "score": 8
       },
       {
         "country": "SWITZERLAND",
-        "salary": 57491
+        "salary": 57491,
+        "score": 1
       }
     ]
   },
@@ -216,51 +264,63 @@
     "countries": [
       {
         "country": "SPAIN",
-        "salary": 23178
+        "salary": 23178,
+        "score": 7
       },
       {
         "country": "SWEDEN",
-        "salary": 32299
+        "salary": 32299,
+        "score": 4
       },
       {
         "country": "CYPRUS",
-        "salary": 23905
+        "salary": 23905,
+        "score": 3
       },
       {
         "country": "FRANCE",
-        "salary": 34302
+        "salary": 34302,
+        "score": 5
       },
       {
         "country": "GERMANY",
-        "salary": 30104
+        "salary": 30104,
+        "score": 2
       },
       {
         "country": "REPUBLIC OF IRELAND",
-        "salary": 26142
+        "salary": 26142,
+        "score": 9
       },
       {
         "country": "ITALY",
-        "salary": 25287
+        "salary": 25287,
+        "score": 11
       },
       {
         "country": "UNITED KINGDOM",
-        "salary": 35547
+        "salary": 35547,
+        "score": 6
       },
       {
         "country": "GREECE",
-        "salary": 18305
+        "salary": 18305,
+        "score": 12
       },
       {
         "country": "NETHERLANDS",
-        "salary": 29521
+        "salary": 29521,
+        "score": 10
       },
       {
         "country": "PORTUGAL",
-        "salary": 19041
+        "salary": 19041,
+        "score": 8
       },
       {
         "country": "SWITZERLAND",
-        "salary": 61084
+        "salary": 61084,
+        "score": 1
       }
     ]
   },
@@ -269,51 +329,63 @@
     "countries": [
       {
         "country": "SPAIN",
-        "salary": 28753
+        "salary": 28753,
+        "score": 8
       },
       {
         "country": "SWEDEN",
-        "salary": 37856
+        "salary": 37856,
+        "score": 5
       },
       {
         "country": "CYPRUS",
-        "salary": 28838
+        "salary": 28838,
+        "score": 3
       },
       {
         "country": "FRANCE",
-        "salary": 42707
+        "salary": 42707,
+        "score": 4
       },
       {
         "country": "GERMANY",
-        "salary": 40066
+        "salary": 40066,
+        "score": 2
       },
       {
         "country": "REPUBLIC OF IRELAND",
-        "salary": 33189
+        "salary": 33189,
+        "score": 9
       },
       {
         "country": "ITALY",
-        "salary": 32887
+        "salary": 32887,
+        "score": 11
       },
       {
         "country": "UNITED KINGDOM",
-        "salary": 44036
+        "salary": 44036,
+        "score": 6
       },
       {
         "country": "GREECE",
-        "salary": 23706
+        "salary": 23706,
+        "score": 12
       },
       {
         "country": "NETHERLANDS",
-        "salary": 39466
+        "salary": 39466,
+        "score": 10
       },
       {
         "country": "PORTUGAL",
-        "salary": 23706
+        "salary": 23706,
+        "score": 7
       },
       {
         "country": "SWITZERLAND",
-        "salary": 73231
+        "salary": 73231,
+        "score": 1
       }
     ]
   },
@@ -322,51 +394,63 @@
     "countries": [
       {
         "country": "SPAIN",
-        "salary": 33419
+        "salary": 33419,
+        "score": 6
       },
       {
         "country": "SWEDEN",
-        "salary": 45613
+        "salary": 45613,
+        "score": 4
       },
       {
         "country": "CYPRUS",
-        "salary": 35861
+        "salary": 35861,
+        "score": 3
       },
       {
         "country": "FRANCE",
-        "salary": 48404
+        "salary": 48404,
+        "score": 5
       },
       {
         "country": "GERMANY",
-        "salary": 45118
+        "salary": 45118,
+        "score": 2
       },
       {
         "country": "REPUBLIC OF IRELAND",
-        "salary": 34109
+        "salary": 34109,
+        "score": 9
       },
       {
         "country": "ITALY",
-        "salary": 38673
+        "salary": 38673,
+        "score": 11
       },
       {
         "country": "UNITED KINGDOM",
-        "salary": 29860
+        "salary": 29860,
+        "score": 10
       },
       {
         "country": "GREECE",
-        "salary": 23425
+        "salary": 23425,
+        "score": 12
       },
       {
         "country": "NETHERLANDS",
-        "salary": 38087
+        "salary": 38087,
+        "score": 8
       },
       {
         "country": "PORTUGAL",
-        "salary": 24129
+        "salary": 24129,
+        "score": 7
       },
       {
         "country": "SWITZERLAND",
-        "salary": 78627
+        "salary": 78627,
+        "score": 1
       }
     ]
   },
@@ -375,51 +459,63 @@
     "countries": [
       {
         "country": "SPAIN",
-        "salary": 14568
+        "salary": 14568,
+        "score": 7
       },
       {
         "country": "SWEDEN",
-        "salary": 19098
+        "salary": 19098,
+        "score": 5
       },
       {
         "country": "CYPRUS",
-        "salary": 14581
+        "salary": 14581,
+        "score": 3
       },
       {
         "country": "FRANCE",
-        "salary": 21337
+        "salary": 21337,
+        "score": 6
       },
       {
         "country": "GERMANY",
-        "salary": 19284
+        "salary": 19284,
+        "score": 2
       },
       {
         "country": "REPUBLIC OF IRELAND",
-        "salary": 16442
+        "salary": 16442,
+        "score": 9
       },
       {
         "country": "ITALY",
-        "salary": 17197
+        "salary": 17197,
+        "score": 11
       },
       {
         "country": "UNITED KINGDOM",
-        "salary": 23462
+        "salary": 23462,
+        "score": 4
       },
       {
         "country": "GREECE",
-        "salary": 11982
+        "salary": 11982,
+        "score": 12
       },
       {
         "country": "NETHERLANDS",
-        "salary": 19885
+        "salary": 19885,
+        "score": 10
       },
       {
         "country": "PORTUGAL",
-        "salary": 12101
+        "salary": 12101,
+        "score": 8
       },
       {
         "country": "SWITZERLAND",
-        "salary": 40661
+        "salary": 40661,
+        "score": 1
       }
     ]
   },
@@ -428,51 +524,63 @@
     "countries": [
       {
         "country": "SPAIN",
-        "salary": 28249
+        "salary": 28249,
+        "score": 7
       },
       {
         "country": "SWEDEN",
-        "salary": 40892
+        "salary": 40892,
+        "score": 4
       },
       {
         "country": "CYPRUS",
-        "salary": 27905
+        "salary": 27905,
+        "score": 3
       },
       {
         "country": "FRANCE",
-        "salary": 43637
+        "salary": 43637,
+        "score": 5
       },
       {
         "country": "GERMANY",
-        "salary": 39796
+        "salary": 39796,
+        "score": 1
       },
       {
         "country": "REPUBLIC OF IRELAND",
-        "salary": 29387
+        "salary": 29387,
+        "score": 10
       },
       {
         "country": "ITALY",
-        "salary": 31737
+        "salary": 31737,
+        "score": 11
       },
       {
         "country": "UNITED KINGDOM",
-        "salary": 44342
+        "salary": 44342,
+        "score": 6
       },
       {
         "country": "GREECE",
-        "salary": 19421
+        "salary": 19421,
+        "score": 12
       },
       {
         "country": "NETHERLANDS",
-        "salary": 32814
+        "salary": 32814,
+        "score": 9
       },
       {
         "country": "PORTUGAL",
-        "salary": 20612
+        "salary": 20612,
+        "score": 8
       },
       {
         "country": "SWITZERLAND",
-        "salary": 64420
+        "salary": 64420,
+        "score": 1
       }
     ]
   },
@@ -481,51 +589,63 @@
     "countries": [
       {
         "country": "SPAIN",
-        "salary": 23652
+        "salary": 23652,
+        "score": 7
       },
       {
         "country": "SWEDEN",
-        "salary": 33741
+        "salary": 33741,
+        "score": 4
       },
       {
         "country": "CYPRUS",
-        "salary": 23472
+        "salary": 23472,
+        "score": 3
       },
       {
         "country": "FRANCE",
-        "salary": 36179
+        "salary": 36179,
+        "score": 6
       },
       {
         "country": "GERMANY",
-        "salary": 31043
+        "salary": 31043,
+        "score": 2
       },
       {
         "country": "REPUBLIC OF IRELAND",
-        "salary": 28117
+        "salary": 28117,
+        "score": 9
       },
       {
         "country": "ITALY",
-        "salary": 25954
+        "salary": 25954,
+        "score": 10
       },
       {
         "country": "UNITED KINGDOM",
-        "salary": 38090
+        "salary": 38090,
+        "score": 5
       },
       {
         "country": "GREECE",
-        "salary": 20083
+        "salary": 20083,
+        "score": 12
       },
       {
         "country": "NETHERLANDS",
-        "salary": 31512
+        "salary": 31512,
+        "score": 11
       },
       {
         "country": "PORTUGAL",
-        "salary": 20083
+        "salary": 20083,
+        "score": 7
       },
       {
         "country": "SWITZERLAND",
-        "salary": 60835
+        "salary": 60835,
+        "score": 1
       }
     ]
   },
@@ -534,51 +654,63 @@
     "countries": [
       {
         "country": "SPAIN",
-        "salary": 84205
+        "salary": 84205,
+        "score": 7
       },
       {
         "country": "SWEDEN",
-        "salary": 111338
+        "salary": 111338,
+        "score": 6
       },
       {
         "country": "CYPRUS",
-        "salary": 84627
+        "salary": 84627,
+        "score": 3
       },
       {
         "country": "FRANCE",
-        "salary": 126802
+        "salary": 126802,
+        "score": 5
       },
       {
         "country": "GERMANY",
-        "salary": 111927
+        "salary": 111927,
+        "score": 2
       },
       {
         "country": "REPUBLIC OF IRELAND",
-        "salary": 100464
+        "salary": 100464,
+        "score": 9
       },
       {
         "country": "ITALY",
-        "salary": 93241
+        "salary": 93241,
+        "score": 11
       },
       {
         "country": "UNITED KINGDOM",
-        "salary": 135611
+        "salary": 135611,
+        "score": 4
       },
       {
         "country": "GREECE",
-        "salary": 66271
+        "salary": 66271,
+        "score": 12
       },
       {
         "country": "NETHERLANDS",
-        "salary": 111771
+        "salary": 111771,
+        "score": 10
       },
       {
         "country": "PORTUGAL",
-        "salary": 70388
+        "salary": 70388,
+        "score": 8
       },
       {
         "country": "SWITZERLAND",
-        "salary": 223055
+        "salary": 223055,
+        "score": 1
       }
     ]
   },
@@ -587,51 +719,63 @@
     "countries": [
       {
         "country": "SPAIN",
-        "salary": 19293
+        "salary": 19293,
+        "score": 7
       },
       {
         "country": "SWEDEN",
-        "salary": 27575
+        "salary": 27575,
+        "score": 4
       },
       {
         "country": "CYPRUS",
-        "salary": 20152
+        "salary": 20152,
+        "score": 3
       },
       {
         "country": "FRANCE",
-        "salary": 28281
+        "salary": 28281,
+        "score": 6
       },
       {
         "country": "GERMANY",
-        "salary": 26001
+        "salary": 26001,
+        "score": 2
       },
       {
         "country": "REPUBLIC OF IRELAND",
-        "salary": 22200
+        "salary": 22200,
+        "score": 9
       },
       {
         "country": "ITALY",
-        "salary": 21929
+        "salary": 21929,
+        "score": 11
       },
       {
         "country": "UNITED KINGDOM",
-        "salary": 30302
+        "salary": 30302,
+        "score": 5
       },
       {
         "country": "GREECE",
-        "salary": 15222
+        "salary": 15222,
+        "score": 12
       },
       {
         "country": "NETHERLANDS",
-        "salary": 25264
+        "salary": 25264,
+        "score": 10
       },
       {
         "country": "PORTUGAL",
-        "salary": 15698
+        "salary": 15698,
+        "score": 8
       },
       {
         "country": "SWITZERLAND",
-        "salary": 53226
+        "salary": 53226,
+        "score": 1
       }
     ]
   },
@@ -640,51 +784,63 @@
     "countries": [
       {
         "country": "SPAIN",
-        "salary": 90896
+        "salary": 90896,
+        "score": 7
       },
       {
         "country": "SWEDEN",
-        "salary": 126666
+        "salary": 126666,
+        "score": 4
       },
       {
         "country": "CYPRUS",
-        "salary": 93746
+        "salary": 93746,
+        "score": 3
       },
       {
         "country": "FRANCE",
-        "salary": 134522
+        "salary": 134522,
+        "score": 5
       },
       {
         "country": "GERMANY",
-        "salary": 118060
+        "salary": 118060,
+        "score": 2
       },
       {
         "country": "REPUBLIC OF IRELAND",
-        "salary": 102520
+        "salary": 102520,
+        "score": 9
       },
       {
         "country": "ITALY",
-        "salary": 99164
+        "salary": 99164,
+        "score": 11
       },
       {
         "country": "UNITED KINGDOM",
-        "salary": 139402
+        "salary": 139402,
+        "score": 6
       },
       {
         "country": "GREECE",
-        "salary": 71785
+        "salary": 71785,
+        "score": 12
       },
       {
         "country": "NETHERLANDS",
-        "salary": 115772
+        "salary": 115772,
+        "score": 10
       },
       {
         "country": "PORTUGAL",
-        "salary": 74673
+        "salary": 74673,
+        "score": 8
       },
       {
         "country": "SWITZERLAND",
-        "salary": 239548
+        "salary": 239548,
+        "score": 1
       }
     ]
   },
@@ -693,51 +849,63 @@
     "countries": [
       {
         "country": "SPAIN",
-        "salary": 34738
+        "salary": 34738,
+        "score": 7
       },
       {
         "country": "SWEDEN",
-        "salary": 55018
+        "salary": 55018,
+        "score": 4
       },
       {
         "country": "CYPRUS",
-        "salary": 41718
+        "salary": 41718,
+        "score": 2
       },
       {
         "country": "FRANCE",
-        "salary": 56969
+        "salary": 56969,
+        "score": 5
       },
       {
         "country": "GERMANY",
-        "salary": 51220
+        "salary": 51220,
+        "score": 1
       },
       {
         "country": "REPUBLIC OF IRELAND",
-        "salary": 28790
+        "salary": 28790,
+        "score": 9
       },
       {
         "country": "ITALY",
-        "salary": 43003
+        "salary": 43003,
+        "score": 11
       },
       {
         "country": "UNITED KINGDOM",
-        "salary": 54584
+        "salary": 54584,
+        "score": 6
       },
       {
         "country": "GREECE",
-        "salary": 22723
+        "salary": 22723,
+        "score": 12
       },
       {
         "country": "NETHERLANDS",
-        "salary": 33024
+        "salary": 33024,
+        "score": 8
       },
       {
         "country": "PORTUGAL",
-        "salary": 27081
+        "salary": 27081,
+        "score": 10
       },
       {
         "country": "SWITZERLAND",
-        "salary": 70838
+        "salary": 70838,
+        "score": 3
       }
     ]
   },
@@ -746,51 +914,63 @@
     "countries": [
       {
         "country": "SPAIN",
-        "salary": 20503
+        "salary": 20503,
+        "score": 9
       },
       {
         "country": "SWEDEN",
-        "salary": 27808
+        "salary": 27808,
+        "score": 6
       },
       {
         "country": "CYPRUS",
-        "salary": 20864
+        "salary": 20864,
+        "score": 3
       },
       {
         "country": "FRANCE",
-        "salary": 30598
+        "salary": 30598,
+        "score": 8
       },
       {
         "country": "GERMANY",
-        "salary": 28306
+        "salary": 28306,
+        "score": 2
       },
       {
         "country": "REPUBLIC OF IRELAND",
-        "salary": 30863
+        "salary": 30863,
+        "score": 7
       },
       {
         "country": "ITALY",
-        "salary": 23678
+        "salary": 23678,
+        "score": 10
       },
       {
         "country": "UNITED KINGDOM",
-        "salary": 43711
+        "salary": 43711,
+        "score": 4
       },
       {
         "country": "GREECE",
-        "salary": 23894
+        "salary": 23894,
+        "score": 11
       },
       {
         "country": "NETHERLANDS",
-        "salary": 37799
+        "salary": 37799,
+        "score": 12
       },
       {
         "country": "PORTUGAL",
-        "salary": 22507
+        "salary": 22507,
+        "score": 5
       },
       {
         "country": "SWITZERLAND",
-        "salary": 76649
+        "salary": 76649,
+        "score": 1
       }
     ]
   },
@@ -799,51 +979,63 @@
     "countries": [
       {
         "country": "SPAIN",
-        "salary": 32254
+        "salary": 32254,
+        "score": 7
       },
       {
         "country": "SWEDEN",
-        "salary": 43633
+        "salary": 43633,
+        "score": 4
       },
       {
         "country": "CYPRUS",
-        "salary": 31167
+        "salary": 31167,
+        "score": 3
       },
       {
         "country": "FRANCE",
-        "salary": 45149
+        "salary": 45149,
+        "score": 6
       },
       {
         "country": "GERMANY",
-        "salary": 42287
+        "salary": 42287,
+        "score": 2
       },
       {
         "country": "REPUBLIC OF IRELAND",
-        "salary": 34868
+        "salary": 34868,
+        "score": 9
       },
       {
         "country": "ITALY",
-        "salary": 34787
+        "salary": 34787,
+        "score": 11
       },
       {
         "country": "UNITED KINGDOM",
-        "salary": 50586
+        "salary": 50586,
+        "score": 5
       },
       {
         "country": "GREECE",
-        "salary": 24538
+        "salary": 24538,
+        "score": 12
       },
       {
         "country": "NETHERLANDS",
-        "salary": 40489
+        "salary": 40489,
+        "score": 10
       },
       {
         "country": "PORTUGAL",
-        "salary": 27245
+        "salary": 27245,
+        "score": 8
       },
       {
         "country": "SWITZERLAND",
-        "salary": 87089
+        "salary": 87089,
+        "score": 1
       }
     ]
   },
@@ -852,51 +1044,63 @@
     "countries": [
       {
         "country": "SPAIN",
-        "salary": 30445
+        "salary": 30445,
+        "score": 8
       },
       {
         "country": "SWEDEN",
-        "salary": 42844
+        "salary": 42844,
+        "score": 4
       },
       {
         "country": "CYPRUS",
-        "salary": 31554
+        "salary": 31554,
+        "score": 3
       },
       {
         "country": "FRANCE",
-        "salary": 46624
+        "salary": 46624,
+        "score": 5
       },
       {
         "country": "GERMANY",
-        "salary": 40695
+        "salary": 40695,
+        "score": 2
       },
       {
         "country": "REPUBLIC OF IRELAND",
-        "salary": 33757
+        "salary": 33757,
+        "score": 9
       },
       {
         "country": "ITALY",
-        "salary": 35590
+        "salary": 35590,
+        "score": 11
       },
       {
         "country": "UNITED KINGDOM",
-        "salary": 47809
+        "salary": 47809,
+        "score": 6
       },
       {
         "country": "GREECE",
-        "salary": 26134
+        "salary": 26134,
+        "score": 12
       },
       {
         "country": "NETHERLANDS",
-        "salary": 41342
+        "salary": 41342,
+        "score": 10
       },
       {
         "country": "PORTUGAL",
-        "salary": 25880
+        "salary": 25880,
+        "score": 7
       },
       {
         "country": "SWITZERLAND",
-        "salary": 79685
+        "salary": 79685,
+        "score": 1
       }
     ]
   },
@@ -905,51 +1109,63 @@
     "countries": [
       {
         "country": "SPAIN",
-        "salary": 28723
+        "salary": 28723,
+        "score": 7
       },
       {
         "country": "SWEDEN",
-        "salary": 39016
+        "salary": 39016,
+        "score": 4
       },
       {
         "country": "CYPRUS",
-        "salary": 27817
+        "salary": 27817,
+        "score": 3
       },
       {
         "country": "FRANCE",
-        "salary": 40796
+        "salary": 40796,
+        "score": 6
       },
       {
         "country": "GERMANY",
-        "salary": 39634
+        "salary": 39634,
+        "score": 2
       },
       {
         "country": "REPUBLIC OF IRELAND",
-        "salary": 33321
+        "salary": 33321,
+        "score": 9
       },
       {
         "country": "ITALY",
-        "salary": 33187
+        "salary": 33187,
+        "score": 11
       },
       {
         "country": "UNITED KINGDOM",
-        "salary": 45141
+        "salary": 45141,
+        "score": 5
       },
       {
         "country": "GREECE",
-        "salary": 23801
+        "salary": 23801,
+        "score": 12
       },
       {
         "country": "NETHERLANDS",
-        "salary": 37345
+        "salary": 37345,
+        "score": 10
       },
       {
         "country": "PORTUGAL",
-        "salary": 22645
+        "salary": 22645,
+        "score": 8
       },
       {
         "country": "SWITZERLAND",
-        "salary": 75890
+        "salary": 75890,
+        "score": 1
       }
     ]
   },
@@ -958,51 +1174,63 @@
     "countries": [
       {
         "country": "SPAIN",
-        "salary": 27856
+        "salary": 27856,
+        "score": 8
       },
       {
         "country": "SWEDEN",
-        "salary": 37914
+        "salary": 37914,
+        "score": 4
       },
       {
         "country": "CYPRUS",
-        "salary": 28395
+        "salary": 28395,
+        "score": 3
       },
       {
         "country": "FRANCE",
-        "salary": 41865
+        "salary": 41865,
+        "score": 5
       },
       {
         "country": "GERMANY",
-        "salary": 35718
+        "salary": 35718,
+        "score": 2
       },
       {
         "country": "REPUBLIC OF IRELAND",
-        "salary": 32269
+        "salary": 32269,
+        "score": 9
       },
       {
         "country": "ITALY",
-        "salary": 30115
+        "salary": 30115,
+        "score": 12
       },
       {
         "country": "UNITED KINGDOM",
-        "salary": 42697
+        "salary": 42697,
+        "score": 6
       },
       {
         "country": "GREECE",
-        "salary": 30476
+        "salary": 30476,
+        "score": 10
       },
       {
         "country": "NETHERLANDS",
-        "salary": 40215
+        "salary": 40215,
+        "score": 11
       },
       {
         "country": "PORTUGAL",
-        "salary": 23239
+        "salary": 23239,
+        "score": 7
       },
       {
         "country": "SWITZERLAND",
-        "salary": 71322
+        "salary": 71322,
+        "score": 1
       }
     ]
   },
@@ -1011,51 +1239,63 @@
     "countries": [
       {
         "country": "SPAIN",
-        "salary": 47846
+        "salary": 47846,
+        "score": 8
       },
       {
         "country": "SWEDEN",
-        "salary": 67332
+        "salary": 67332,
+        "score": 4
       },
       {
         "country": "CYPRUS",
-        "salary": 49589
+        "salary": 49589,
+        "score": 3
       },
       {
         "country": "FRANCE",
-        "salary": 73273
+        "salary": 73273,
+        "score": 5
       },
       {
         "country": "GERMANY",
-        "salary": 63956
+        "salary": 63956,
+        "score": 2
       },
       {
         "country": "REPUBLIC OF IRELAND",
-        "salary": 53050
+        "salary": 53050,
+        "score": 9
       },
       {
         "country": "ITALY",
-        "salary": 55932
+        "salary": 55932,
+        "score": 11
       },
       {
         "country": "UNITED KINGDOM",
-        "salary": 75136
+        "salary": 75136,
+        "score": 6
       },
       {
         "country": "GREECE",
-        "salary": 41071
+        "salary": 41071,
+        "score": 12
       },
       {
         "country": "NETHERLANDS",
-        "salary": 64972
+        "salary": 64972,
+        "score": 10
       },
       {
         "country": "PORTUGAL",
-        "salary": 40673
+        "salary": 40673,
+        "score": 7
       },
       {
         "country": "SWITZERLAND",
-        "salary": 125231
+        "salary": 125231,
+        "score": 1
       }
     ]
   },
@@ -1064,51 +1304,63 @@
     "countries": [
       {
         "country": "SPAIN",
-        "salary": 34833
+        "salary": 34833,
+        "score": 8
       },
       {
         "country": "SWEDEN",
-        "salary": 49115
+        "salary": 49115,
+        "score": 4
       },
       {
         "country": "CYPRUS",
-        "salary": 34345
+        "salary": 34345,
+        "score": 3
       },
       {
         "country": "FRANCE",
-        "salary": 51104
+        "salary": 51104,
+        "score": 5
       },
       {
         "country": "GERMANY",
-        "salary": 47795
+        "salary": 47795,
+        "score": 2
       },
       {
         "country": "REPUBLIC OF IRELAND",
-        "salary": 44255
+        "salary": 44255,
+        "score": 9
       },
       {
         "country": "ITALY",
-        "salary": 42095
+        "salary": 42095,
+        "score": 11
       },
       {
         "country": "UNITED KINGDOM",
-        "salary": 53304
+        "salary": 53304,
+        "score": 6
       },
       {
         "country": "GREECE",
-        "salary": 31611
+        "salary": 31611,
+        "score": 12
       },
       {
         "country": "NETHERLANDS",
-        "salary": 49601
+        "salary": 49601,
+        "score": 10
       },
       {
         "country": "PORTUGAL",
-        "salary": 31611
+        "salary": 31611,
+        "score": 7
       },
       {
         "country": "SWITZERLAND",
-        "salary": 95753
+        "salary": 95753,
+        "score": 1
       }
     ]
   },
@@ -1117,51 +1369,63 @@
     "countries": [
       {
         "country": "SPAIN",
-        "salary": 35415
+        "salary": 35415,
+        "score": 7
       },
       {
         "country": "SWEDEN",
-        "salary": 49257
+        "salary": 49257,
+        "score": 4
       },
       {
         "country": "CYPRUS",
-        "salary": 34743
+        "salary": 34743,
+        "score": 3
       },
       {
         "country": "FRANCE",
-        "salary": 49520
+        "salary": 49520,
+        "score": 6
       },
       {
         "country": "GERMANY",
-        "salary": 44795
+        "salary": 44795,
+        "score": 2
       },
       {
         "country": "REPUBLIC OF IRELAND",
-        "salary": 35313
+        "salary": 35313,
+        "score": 10
       },
       {
         "country": "ITALY",
-        "salary": 41238
+        "salary": 41238,
+        "score": 11
       },
       {
         "country": "UNITED KINGDOM",
-        "salary": 55673
+        "salary": 55673,
+        "score": 5
       },
       {
         "country": "GREECE",
-        "salary": 24213
+        "salary": 24213,
+        "score": 12
       },
       {
         "country": "NETHERLANDS",
-        "salary": 40187
+        "salary": 40187,
+        "score": 9
       },
       {
         "country": "PORTUGAL",
-        "salary": 26234
+        "salary": 26234,
+        "score": 8
       },
       {
         "country": "SWITZERLAND",
-        "salary": 80515
+        "salary": 80515,
+        "score": 1
       }
     ]
   },
@@ -1170,157 +1434,63 @@
     "countries": [
       {
         "country": "SPAIN",
-        "salary": 50529
+        "salary": 50529,
+        "score": 8
       },
       {
         "country": "SWEDEN",
-        "salary": 73742
+        "salary": 73742,
+        "score": 5
       },
       {
         "country": "CYPRUS",
-        "salary": 56032
+        "salary": 56032,
+        "score": 3
       },
       {
         "country": "FRANCE",
-        "salary": 75559
+        "salary": 75559,
+        "score": 6
       },
       {
         "country": "GERMANY",
-        "salary": 72329
+        "salary": 72329,
+        "score": 2
       },
       {
         "country": "REPUBLIC OF IRELAND",
-        "salary": 59327
+        "salary": 59327,
+        "score": 9
       },
       {
         "country": "ITALY",
-        "salary": 59801
+        "salary": 59801,
+        "score": 11
       },
       {
         "country": "UNITED KINGDOM",
-        "salary": 87662
+        "salary": 87662,
+        "score": 4
       },
       {
         "country": "GREECE",
-        "salary": 44977
+        "salary": 44977,
+        "score": 12
       },
       {
         "country": "NETHERLANDS",
-        "salary": 71726
+        "salary": 71726,
+        "score": 10
       },
       {
         "country": "PORTUGAL",
-        "salary": 41943
+        "salary": 41943,
+        "score": 7
       },
       {
         "country": "SWITZERLAND",
-        "salary": 145148
-      }
-    ]
-  },
-  {
-    "job": "Librarian",
-    "countries": [
-      {
-        "country": "SPAIN",
-        "salary": 23015
-      },
-      {
-        "country": "SWEDEN",
-        "salary": 33195
-      },
-      {
-        "country": "CYPRUS",
-        "salary": 25384
-      },
-      {
-        "country": "FRANCE",
-        "salary": 36489
-      },
-      {
-        "country": "GERMANY",
-        "salary": 31127
-      },
-      {
-        "country": "REPUBLIC OF IRELAND",
-        "salary": 26137
-      },
-      {
-        "country": "ITALY",
-        "salary": 27128
-      },
-      {
-        "country": "UNITED KINGDOM",
-        "salary": 38025
-      },
-      {
-        "country": "GREECE",
-        "salary": 18308
-      },
-      {
-        "country": "NETHERLANDS",
-        "salary": 30714
-      },
-      {
-        "country": "PORTUGAL",
-        "salary": 18128
-      },
-      {
-        "country": "SWITZERLAND",
-        "salary": 56926
-      }
-    ]
-  },
-  {
-    "job": "Midwife",
-    "countries": [
-      {
-        "country": "SPAIN",
-        "salary": 34085
-      },
-      {
-        "country": "SWEDEN",
-        "salary": 47499
-      },
-      {
-        "country": "CYPRUS",
-        "salary": 35154
-      },
-      {
-        "country": "FRANCE",
-        "salary": 50444
-      },
-      {
-        "country": "GERMANY",
-        "salary": 44271
-      },
-      {
-        "country": "REPUBLIC OF IRELAND",
-        "salary": 38444
-      },
-      {
-        "country": "ITALY",
-        "salary": 37186
-      },
-      {
-        "country": "UNITED KINGDOM",
-        "salary": 52275
-      },
-      {
-        "country": "GREECE",
-        "salary": 26918
-      },
-      {
-        "country": "NETHERLANDS",
-        "salary": 43414
-      },
-      {
-        "country": "PORTUGAL",
-        "salary": 28002
-      },
-      {
-        "country": "SWITZERLAND",
-        "salary": 89829
+        "salary": 145148,
+        "score": 1
       }
     ]
   },
@@ -1329,51 +1499,63 @@
     "countries": [
       {
         "country": "SPAIN",
-        "salary": 28549
+        "salary": 28549,
+        "score": 7
       },
       {
         "country": "SWEDEN",
-        "salary": 39555
+        "salary": 39555,
+        "score": 4
       },
       {
         "country": "CYPRUS",
-        "salary": 27949
+        "salary": 27949,
+        "score": 3
       },
       {
         "country": "FRANCE",
-        "salary": 39341
+        "salary": 39341,
+        "score": 6
       },
       {
         "country": "GERMANY",
-        "salary": 37898
+        "salary": 37898,
+        "score": 2
       },
       {
         "country": "REPUBLIC OF IRELAND",
-        "salary": 32166
+        "salary": 32166,
+        "score": 9
       },
       {
         "country": "ITALY",
-        "salary": 31077
+        "salary": 31077,
+        "score": 11
       },
       {
         "country": "UNITED KINGDOM",
-        "salary": 42679
+        "salary": 42679,
+        "score": 5
       },
       {
         "country": "GREECE",
-        "salary": 22975
+        "salary": 22975,
+        "score": 12
       },
       {
         "country": "NETHERLANDS",
-        "salary": 38250
+        "salary": 38250,
+        "score": 10
       },
       {
         "country": "PORTUGAL",
-        "salary": 21838
+        "salary": 21838,
+        "score": 8
       },
       {
         "country": "SWITZERLAND",
-        "salary": 74709
+        "salary": 74709,
+        "score": 1
       }
     ]
   },
@@ -1382,51 +1564,63 @@
     "countries": [
       {
         "country": "SPAIN",
-        "salary": 29373
+        "salary": 29373,
+        "score": 7
       },
       {
         "country": "SWEDEN",
-        "salary": 40458
+        "salary": 40458,
+        "score": 4
       },
       {
         "country": "CYPRUS",
-        "salary": 30119
+        "salary": 30119,
+        "score": 3
       },
       {
         "country": "FRANCE",
-        "salary": 41692
+        "salary": 41692,
+        "score": 6
       },
       {
         "country": "GERMANY",
-        "salary": 39835
+        "salary": 39835,
+        "score": 2
       },
       {
         "country": "REPUBLIC OF IRELAND",
-        "salary": 33058
+        "salary": 33058,
+        "score": 9
       },
       {
         "country": "ITALY",
-        "salary": 31901
+        "salary": 31901,
+        "score": 11
       },
       {
         "country": "UNITED KINGDOM",
-        "salary": 47305
+        "salary": 47305,
+        "score": 4
       },
       {
         "country": "GREECE",
-        "salary": 24025
+        "salary": 24025,
+        "score": 12
       },
       {
         "country": "NETHERLANDS",
-        "salary": 37474
+        "salary": 37474,
+        "score": 10
       },
       {
         "country": "PORTUGAL",
-        "salary": 23143
+        "salary": 23143,
+        "score": 8
       },
       {
         "country": "SWITZERLAND",
-        "salary": 76314
+        "salary": 76314,
+        "score": 1
       }
     ]
   },
@@ -1435,51 +1629,63 @@
     "countries": [
       {
         "country": "SPAIN",
-        "salary": 22357
+        "salary": 22357,
+        "score": 5
       },
       {
         "country": "SWEDEN",
-        "salary": 30121
+        "salary": 30121,
+        "score": 2
       },
       {
         "country": "CYPRUS",
-        "salary": 21556
+        "salary": 21556,
+        "score": 4
       },
       {
         "country": "FRANCE",
-        "salary": 34088
+        "salary": 34088,
+        "score": 3
       },
       {
         "country": "GERMANY",
-        "salary": 30732
+        "salary": 30732,
+        "score": 7
       },
       {
         "country": "REPUBLIC OF IRELAND",
-        "salary": 24216
+        "salary": 24216,
+        "score": 11
       },
       {
         "country": "ITALY",
-        "salary": 24919
+        "salary": 24919,
+        "score": 6
       },
       {
         "country": "UNITED KINGDOM",
-        "salary": 35132
+        "salary": 35132,
+        "score": 12
       },
       {
         "country": "GREECE",
-        "salary": 18337
+        "salary": 18337,
+        "score": 10
       },
       {
         "country": "NETHERLANDS",
-        "salary": 28119
+        "salary": 28119,
+        "score": 8
       },
       {
         "country": "PORTUGAL",
-        "salary": 18922
+        "salary": 18922,
+        "score": 9
       },
       {
         "country": "SWITZERLAND",
-        "salary": 60483
+        "salary": 60483,
+        "score": 1
       }
     ]
   },
@@ -1488,51 +1694,63 @@
     "countries": [
       {
         "country": "SPAIN",
-        "salary": 40160
+        "salary": 40160,
+        "score": 7
       },
       {
         "country": "SWEDEN",
-        "salary": 53887
+        "salary": 53887,
+        "score": 4
       },
       {
         "country": "CYPRUS",
-        "salary": 38636
+        "salary": 38636,
+        "score": 3
       },
       {
         "country": "FRANCE",
-        "salary": 60417
+        "salary": 60417,
+        "score": 5
       },
       {
         "country": "GERMANY",
-        "salary": 52433
+        "salary": 52433,
+        "score": 2
       },
       {
         "country": "REPUBLIC OF IRELAND",
-        "salary": 46497
+        "salary": 46497,
+        "score": 9
       },
       {
         "country": "ITALY",
-        "salary": 46217
+        "salary": 46217,
+        "score": 11
       },
       {
         "country": "UNITED KINGDOM",
-        "salary": 59964
+        "salary": 59964,
+        "score": 6
       },
       {
         "country": "GREECE",
-        "salary": 28734
+        "salary": 28734,
+        "score": 12
       },
       {
         "country": "NETHERLANDS",
-        "salary": 52309
+        "salary": 52309,
+        "score": 10
       },
       {
         "country": "PORTUGAL",
-        "salary": 31188
+        "salary": 31188,
+        "score": 8
       },
       {
         "country": "SWITZERLAND",
-        "salary": 104592
+        "salary": 104592,
+        "score": 1
       }
     ]
   },
@@ -1541,51 +1759,63 @@
     "countries": [
       {
         "country": "SPAIN",
-        "salary": 62752
+        "salary": 62752,
+        "score": 7
       },
       {
         "country": "SWEDEN",
-        "salary": 87431
+        "salary": 87431,
+        "score": 4
       },
       {
         "country": "CYPRUS",
-        "salary": 67963
+        "salary": 67963,
+        "score": 3
       },
       {
         "country": "FRANCE",
-        "salary": 97524
+        "salary": 97524,
+        "score": 5
       },
       {
         "country": "GERMANY",
-        "salary": 89886
+        "salary": 89886,
+        "score": 2
       },
       {
         "country": "REPUBLIC OF IRELAND",
-        "salary": 74323
+        "salary": 74323,
+        "score": 9
       },
       {
         "country": "ITALY",
-        "salary": 75558
+        "salary": 75558,
+        "score": 11
       },
       {
         "country": "UNITED KINGDOM",
-        "salary": 101062
+        "salary": 101062,
+        "score": 6
       },
       {
         "country": "GREECE",
-        "salary": 52041
+        "salary": 52041,
+        "score": 12
       },
       {
         "country": "NETHERLANDS",
-        "salary": 83931
+        "salary": 83931,
+        "score": 10
       },
       {
         "country": "PORTUGAL",
-        "salary": 54135
+        "salary": 54135,
+        "score": 8
       },
       {
         "country": "SWITZERLAND",
-        "salary": 173664
+        "salary": 173664,
+        "score": 1
       }
     ]
   },
@@ -1594,51 +1824,63 @@
     "countries": [
       {
         "country": "SPAIN",
-        "salary": 40787
+        "salary": 40787,
+        "score": 8
       },
       {
         "country": "SWEDEN",
-        "salary": 55903
+        "salary": 55903,
+        "score": 5
       },
       {
         "country": "CYPRUS",
-        "salary": 43849
+        "salary": 43849,
+        "score": 3
       },
       {
         "country": "FRANCE",
-        "salary": 59944
+        "salary": 59944,
+        "score": 6
       },
       {
         "country": "GERMANY",
-        "salary": 57994
+        "salary": 57994,
+        "score": 2
       },
       {
         "country": "REPUBLIC OF IRELAND",
-        "salary": 46585
+        "salary": 46585,
+        "score": 9
       },
       {
         "country": "ITALY",
-        "salary": 45662
+        "salary": 45662,
+        "score": 11
       },
       {
         "country": "UNITED KINGDOM",
-        "salary": 65687
+        "salary": 65687,
+        "score": 4
       },
       {
         "country": "GREECE",
-        "salary": 33275
+        "salary": 33275,
+        "score": 12
       },
       {
         "country": "NETHERLANDS",
-        "salary": 56561
+        "salary": 56561,
+        "score": 10
       },
       {
         "country": "PORTUGAL",
-        "salary": 33275
+        "salary": 33275,
+        "score": 7
       },
       {
         "country": "SWITZERLAND",
-        "salary": 107028
+        "salary": 107028,
+        "score": 1
       }
     ]
   },
@@ -1647,51 +1889,63 @@
     "countries": [
       {
         "country": "SPAIN",
-        "salary": 26282
+        "salary": 26282,
+        "score": 8
       },
       {
         "country": "SWEDEN",
-        "salary": 37682
+        "salary": 37682,
+        "score": 5
       },
       {
         "country": "CYPRUS",
-        "salary": 27497
+        "salary": 27497,
+        "score": 3
       },
       {
         "country": "FRANCE",
-        "salary": 42865
+        "salary": 42865,
+        "score": 4
       },
       {
         "country": "GERMANY",
-        "salary": 36366
+        "salary": 36366,
+        "score": 2
       },
       {
         "country": "REPUBLIC OF IRELAND",
-        "salary": 30764
+        "salary": 30764,
+        "score": 9
       },
       {
         "country": "ITALY",
-        "salary": 30918
+        "salary": 30918,
+        "score": 11
       },
       {
         "country": "UNITED KINGDOM",
-        "salary": 42327
+        "salary": 42327,
+        "score": 6
       },
       {
         "country": "GREECE",
-        "salary": 22430
+        "salary": 22430,
+        "score": 12
       },
       {
         "country": "NETHERLANDS",
-        "salary": 35576
+        "salary": 35576,
+        "score": 10
       },
       {
         "country": "PORTUGAL",
-        "salary": 23794
+        "salary": 23794,
+        "score": 7
       },
       {
         "country": "SWITZERLAND",
-        "salary": 67171
+        "salary": 67171,
+        "score": 1
       }
     ]
   },
@@ -1700,51 +1954,63 @@
     "countries": [
       {
         "country": "SPAIN",
-        "salary": 24371
+        "salary": 24371,
+        "score": 5
       },
       {
         "country": "SWEDEN",
-        "salary": 35428
+        "salary": 35428,
+        "score": 4
       },
       {
         "country": "CYPRUS",
-        "salary": 26976
+        "salary": 26976,
+        "score": 2
       },
       {
         "country": "FRANCE",
-        "salary": 28509
+        "salary": 28509,
+        "score": 6
       },
       {
         "country": "GERMANY",
-        "salary": 28509
+        "salary": 28509,
+        "score": 3
       },
       {
         "country": "REPUBLIC OF IRELAND",
-        "salary": 21488
+        "salary": 21488,
+        "score": 10
       },
       {
         "country": "ITALY",
-        "salary": 29782
+        "salary": 29782,
+        "score": 11
       },
       {
         "country": "UNITED KINGDOM",
-        "salary": 29564
+        "salary": 29564,
+        "score": 7
       },
       {
         "country": "GREECE",
-        "salary": 15666
+        "salary": 15666,
+        "score": 12
       },
       {
         "country": "NETHERLANDS",
-        "salary": 24849
+        "salary": 24849,
+        "score": 8
       },
       {
         "country": "PORTUGAL",
-        "salary": 15825
+        "salary": 15825,
+        "score": 9
       },
       {
         "country": "SWITZERLAND",
-        "salary": 54270
+        "salary": 54270,
+        "score": 1
       }
     ]
   },
@@ -1753,51 +2019,63 @@
     "countries": [
       {
         "country": "SPAIN",
-        "salary": 20108
+        "salary": 20108,
+        "score": 8
       },
       {
         "country": "SWEDEN",
-        "salary": 29060
+        "salary": 29060,
+        "score": 4
       },
       {
         "country": "CYPRUS",
-        "salary": 21122
+        "salary": 21122,
+        "score": 3
       },
       {
         "country": "FRANCE",
-        "salary": 30536
+        "salary": 30536,
+        "score": 6
       },
       {
         "country": "GERMANY",
-        "salary": 30536
+        "salary": 30536,
+        "score": 2
       },
       {
         "country": "REPUBLIC OF IRELAND",
-        "salary": 23340
+        "salary": 23340,
+        "score": 9
       },
       {
         "country": "ITALY",
-        "salary": 24528
+        "salary": 24528,
+        "score": 11
       },
       {
         "country": "UNITED KINGDOM",
-        "salary": 32383
+        "salary": 32383,
+        "score": 5
       },
       {
         "country": "GREECE",
-        "salary": 17297
+        "salary": 17297,
+        "score": 12
       },
       {
         "country": "NETHERLANDS",
-        "salary": 28187
+        "salary": 28187,
+        "score": 10
       },
       {
         "country": "PORTUGAL",
-        "salary": 16950
+        "salary": 16950,
+        "score": 7
       },
       {
         "country": "SWITZERLAND",
-        "salary": 55498
+        "salary": 55498,
+        "score": 1
       }
     ]
   },
@@ -1806,51 +2084,63 @@
     "countries": [
       {
         "country": "SPAIN",
-        "salary": 26670
+        "salary": 26670,
+        "score": 6
       },
       {
         "country": "SWEDEN",
-        "salary": 35488
+        "salary": 35488,
+        "score": 4
       },
       {
         "country": "CYPRUS",
-        "salary": 25542
+        "salary": 25542,
+        "score": 3
       },
       {
         "country": "FRANCE",
-        "salary": 39029
+        "salary": 39029,
+        "score": 5
       },
       {
         "country": "GERMANY",
-        "salary": 39029
+        "salary": 39029,
+        "score": 2
       },
       {
         "country": "REPUBLIC OF IRELAND",
-        "salary": 23340
+        "salary": 23340,
+        "score": 10
       },
       {
         "country": "ITALY",
-        "salary": 29597
+        "salary": 29597,
+        "score": 12
       },
       {
         "country": "UNITED KINGDOM",
-        "salary": 29860
+        "salary": 29860,
+        "score": 8
       },
       {
         "country": "GREECE",
-        "salary": 28019
+        "salary": 28019,
+        "score": 9
       },
       {
         "country": "NETHERLANDS",
-        "salary": 32022
+        "salary": 32022,
+        "score": 11
       },
       {
         "country": "PORTUGAL",
-        "salary": 19928
+        "salary": 19928,
+        "score": 7
       },
       {
         "country": "SWITZERLAND",
-        "salary": 65958
+        "salary": 65958,
+        "score": 1
       }
     ]
   },
@@ -1859,51 +2149,63 @@
     "countries": [
       {
         "country": "SPAIN",
-        "salary": 26954
+        "salary": 26954,
+        "score": 7
       },
       {
         "country": "SWEDEN",
-        "salary": 35411
+        "salary": 35411,
+        "score": 5
       },
       {
         "country": "CYPRUS",
-        "salary": 28371
+        "salary": 28371,
+        "score": 3
       },
       {
         "country": "FRANCE",
-        "salary": 37772
+        "salary": 37772,
+        "score": 6
       },
       {
         "country": "GERMANY",
-        "salary": 37772
+        "salary": 37772,
+        "score": 2
       },
       {
         "country": "REPUBLIC OF IRELAND",
-        "salary": 31605
+        "salary": 31605,
+        "score": 8
       },
       {
         "country": "ITALY",
-        "salary": 29779
+        "salary": 29779,
+        "score": 11
       },
       {
         "country": "UNITED KINGDOM",
-        "salary": 42344
+        "salary": 42344,
+        "score": 4
       },
       {
         "country": "GREECE",
-        "salary": 21275
+        "salary": 21275,
+        "score": 12
       },
       {
         "country": "NETHERLANDS",
-        "salary": 31814
+        "salary": 31814,
+        "score": 10
       },
       {
         "country": "PORTUGAL",
-        "salary": 21708
+        "salary": 21708,
+        "score": 9
       },
       {
         "country": "SWITZERLAND",
-        "salary": 73286
+        "salary": 73286,
+        "score": 1
       }
     ]
   },
@@ -1912,51 +2214,63 @@
     "countries": [
       {
         "country": "SPAIN",
-        "salary": 22706
+        "salary": 22706,
+        "score": 8
       },
       {
         "country": "SWEDEN",
-        "salary": 32205
+        "salary": 32205,
+        "score": 4
       },
       {
         "country": "CYPRUS",
-        "salary": 23626
+        "salary": 23626,
+        "score": 3
       },
       {
         "country": "FRANCE",
-        "salary": 32334
+        "salary": 32334,
+        "score": 7
       },
       {
         "country": "GERMANY",
-        "salary": 32334
+        "salary": 32334,
+        "score": 2
       },
       {
         "country": "REPUBLIC OF IRELAND",
-        "salary": 26968
+        "salary": 26968,
+        "score": 9
       },
       {
         "country": "ITALY",
-        "salary": 27490
+        "salary": 27490,
+        "score": 11
       },
       {
         "country": "UNITED KINGDOM",
-        "salary": 35660
+        "salary": 35660,
+        "score": 6
       },
       {
         "country": "GREECE",
-        "salary": 19639
+        "salary": 19639,
+        "score": 12
       },
       {
         "country": "NETHERLANDS",
-        "salary": 36994
+        "salary": 36994,
+        "score": 10
       },
       {
         "country": "PORTUGAL",
-        "salary": 17949
+        "salary": 17949,
+        "score": 5
       },
       {
         "country": "SWITZERLAND",
-        "salary": 64126
+        "salary": 64126,
+        "score": 1
       }
     ]
   },
@@ -1965,51 +2279,63 @@
     "countries": [
       {
         "country": "SPAIN",
-        "salary": 19129
+        "salary": 19129,
+        "score": 8
       },
       {
         "country": "SWEDEN",
-        "salary": 27261
+        "salary": 27261,
+        "score": 5
       },
       {
         "country": "CYPRUS",
-        "salary": 20982
+        "salary": 20982,
+        "score": 3
       },
       {
         "country": "FRANCE",
-        "salary": 29082
+        "salary": 29082,
+        "score": 7
       },
       {
         "country": "GERMANY",
-        "salary": 29082
+        "salary": 29082,
+        "score": 2
       },
       {
         "country": "REPUBLIC OF IRELAND",
-        "salary": 27679
+        "salary": 27679,
+        "score": 9
       },
       {
         "country": "ITALY",
-        "salary": 22456
+        "salary": 22456,
+        "score": 10
       },
       {
         "country": "UNITED KINGDOM",
-        "salary": 33215
+        "salary": 33215,
+        "score": 6
       },
       {
         "country": "GREECE",
-        "salary": 16642
+        "salary": 16642,
+        "score": 12
       },
       {
         "country": "NETHERLANDS",
-        "salary": 33520
+        "salary": 33520,
+        "score": 11
       },
       {
         "country": "PORTUGAL",
-        "salary": 16143
+        "salary": 16143,
+        "score": 4
       },
       {
         "country": "SWITZERLAND",
-        "salary": 63261
+        "salary": 63261,
+        "score": 1
       }
     ]
   },
@@ -2018,51 +2344,63 @@
     "countries": [
       {
         "country": "SPAIN",
-        "salary": 20004
+        "salary": 20004,
+        "score": 8
       },
       {
         "country": "SWEDEN",
-        "salary": 28623
+        "salary": 28623,
+        "score": 4
       },
       {
         "country": "CYPRUS",
-        "salary": 21982
+        "salary": 21982,
+        "score": 3
       },
       {
         "country": "FRANCE",
-        "salary": 30848
+        "salary": 30848,
+        "score": 6
       },
       {
         "country": "GERMANY",
-        "salary": 30848
+        "salary": 30848,
+        "score": 2
       },
       {
         "country": "REPUBLIC OF IRELAND",
-        "salary": 24216
+        "salary": 24216,
+        "score": 9
       },
       {
         "country": "ITALY",
-        "salary": 25134
+        "salary": 25134,
+        "score": 11
       },
       {
         "country": "UNITED KINGDOM",
-        "salary": 33054
+        "salary": 33054,
+        "score": 5
       },
       {
         "country": "GREECE",
-        "salary": 16604
+        "salary": 16604,
+        "score": 12
       },
       {
         "country": "NETHERLANDS",
-        "salary": 31133
+        "salary": 31133,
+        "score": 10
       },
       {
         "country": "PORTUGAL",
-        "salary": 17124
+        "salary": 17124,
+        "score": 7
       },
       {
         "country": "SWITZERLAND",
-        "salary": 58059
+        "salary": 58059,
+        "score": 1
       }
     ]
   },
@@ -2071,51 +2409,63 @@
     "countries": [
       {
         "country": "SPAIN",
-        "salary": 28133
+        "salary": 28133,
+        "score": 7
       },
       {
         "country": "SWEDEN",
-        "salary": 39197
+        "salary": 39197,
+        "score": 4
       },
       {
         "country": "CYPRUS",
-        "salary": 30469
+        "salary": 30469,
+        "score": 3
       },
       {
         "country": "FRANCE",
-        "salary": 43721
+        "salary": 43721,
+        "score": 5
       },
       {
         "country": "GERMANY",
-        "salary": 43721
+        "salary": 43721,
+        "score": 2
       },
       {
         "country": "REPUBLIC OF IRELAND",
-        "salary": 37469
+        "salary": 37469,
+        "score": 9
       },
       {
         "country": "ITALY",
-        "salary": 33874
+        "salary": 33874,
+        "score": 10
       },
       {
         "country": "UNITED KINGDOM",
-        "salary": 45307
+        "salary": 45307,
+        "score": 6
       },
       {
         "country": "GREECE",
-        "salary": 23331
+        "salary": 23331,
+        "score": 12
       },
       {
         "country": "NETHERLANDS",
-        "salary": 37628
+        "salary": 37628,
+        "score": 11
       },
       {
         "country": "PORTUGAL",
-        "salary": 24270
+        "salary": 24270,
+        "score": 8
       },
       {
         "country": "SWITZERLAND",
-        "salary": 77856
+        "salary": 77856,
+        "score": 1
       }
     ]
   },
@@ -2124,51 +2474,63 @@
     "countries": [
       {
         "country": "SPAIN",
-        "salary": 36860
+        "salary": 36860,
+        "score": 7
       },
       {
         "country": "SWEDEN",
-        "salary": 52103
+        "salary": 52103,
+        "score": 6
       },
       {
         "country": "CYPRUS",
-        "salary": 40282
+        "salary": 40282,
+        "score": 3
       },
       {
         "country": "FRANCE",
-        "salary": 60211
+        "salary": 60211,
+        "score": 5
       },
       {
         "country": "GERMANY",
-        "salary": 60211
+        "salary": 60211,
+        "score": 2
       },
       {
         "country": "REPUBLIC OF IRELAND",
-        "salary": 44543
+        "salary": 44543,
+        "score": 9
       },
       {
         "country": "ITALY",
-        "salary": 46155
+        "salary": 46155,
+        "score": 11
       },
       {
         "country": "UNITED KINGDOM",
-        "salary": 64024
+        "salary": 64024,
+        "score": 4
       },
       {
         "country": "GREECE",
-        "salary": 31816
+        "salary": 31816,
+        "score": 12
       },
       {
         "country": "NETHERLANDS",
-        "salary": 50890
+        "salary": 50890,
+        "score": 10
       },
       {
         "country": "PORTUGAL",
-        "salary": 33423
+        "salary": 33423,
+        "score": 7
       },
       {
         "country": "SWITZERLAND",
-        "salary": 105546
+        "salary": 105546,
+        "score": 1
       }
     ]
   },
@@ -2177,51 +2539,63 @@
     "countries": [
       {
         "country": "SPAIN",
-        "salary": 20836
+        "salary": 20836,
+        "score": 8
       },
       {
         "country": "SWEDEN",
-        "salary": 29205
+        "salary": 29205,
+        "score": 4
       },
       {
         "country": "CYPRUS",
-        "salary": 21552
+        "salary": 21552,
+        "score": 3
       },
       {
         "country": "FRANCE",
-        "salary": 31473
+        "salary": 31473,
+        "score": 6
       },
       {
         "country": "GERMANY",
-        "salary": 31473
+        "salary": 31473,
+        "score": 2
       },
       {
         "country": "REPUBLIC OF IRELAND",
-        "salary": 24701
+        "salary": 24701,
+        "score": 9
       },
       {
         "country": "ITALY",
-        "salary": 25134
+        "salary": 25134,
+        "score": 11
       },
       {
         "country": "UNITED KINGDOM",
-        "salary": 34394
+        "salary": 34394,
+        "score": 5
       },
       {
         "country": "GREECE",
-        "salary": 16950
+        "salary": 16950,
+        "score": 12
       },
       {
         "country": "NETHERLANDS",
-        "salary": 29256
+        "salary": 29256,
+        "score": 10
       },
       {
         "country": "PORTUGAL",
-        "salary": 17471
+        "salary": 17471,
+        "score": 7
       },
       {
         "country": "SWITZERLAND",
-        "salary": 58059
+        "salary": 58059,
+        "score": 1
       }
     ]
   },
@@ -2230,51 +2604,63 @@
     "countries": [
       {
         "country": "SPAIN",
-        "salary": 14568
+        "salary": 14568,
+        "score": 7
       },
       {
         "country": "SWEDEN",
-        "salary": 19098
+        "salary": 19098,
+        "score": 4
       },
       {
         "country": "CYPRUS",
-        "salary": 14581
+        "salary": 14581,
+        "score": 3
       },
       {
         "country": "FRANCE",
-        "salary": 21337
+        "salary": 21337,
+        "score": 6
       },
       {
         "country": "GERMANY",
-        "salary": 21337
+        "salary": 21337,
+        "score": 2
       },
       {
         "country": "REPUBLIC OF IRELAND",
-        "salary": 16241
+        "salary": 16241,
+        "score": 8
       },
       {
         "country": "ITALY",
-        "salary": 17197
+        "salary": 17197,
+        "score": 12
       },
       {
         "country": "UNITED KINGDOM",
-        "salary": 23462
+        "salary": 23462,
+        "score": 5
       },
       {
         "country": "GREECE",
-        "salary": 12783
+        "salary": 12783,
+        "score": 11
       },
       {
         "country": "NETHERLANDS",
-        "salary": 18791
+        "salary": 18791,
+        "score": 10
       },
       {
         "country": "PORTUGAL",
-        "salary": 11839
+        "salary": 11839,
+        "score": 9
       },
       {
         "country": "SWITZERLAND",
-        "salary": 48665
+        "salary": 48665,
+        "score": 1
       }
     ]
   }

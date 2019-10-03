@@ -72,7 +72,7 @@
                 </div>
             </div>
         </div>
-        <div class="section" id="search">
+        <div class="section search" id="search">
             <header id="header">
                 <div class="container">
                     <ul class="list-unstyled row">
@@ -154,7 +154,7 @@
                     <table id="countryTable" class="table" cellspacing="0" width="100%" style="display:none;">
                         <thead class="data-notice">
                             <tr>
-                                <th style="width:13%;"><span>Rank</span></th>
+                                <th style="width:13%;"><span>Score</span></th>
                                 <th style="width:22%;"><span>Country</span></th>
                                 <th style="width:13%;"><span>Salary</span></th>
                                 <th style="width:13%;"><span>Weekly hours worked*</span></th>
@@ -170,7 +170,7 @@
                             <table id="jobsTable" class="table" cellspacing="0" width="100%" style="display:none;">
                                 <thead>
                                     <tr>
-                                        <th style="width:15%;"><span>Rank</span></th>
+                                        <th style="width:15%;"><span>Score</span></th>
                                         <th style="width:70%;"><span>Job</span></th>
                                         <th style="width:15%;"><span>Salary</span></th>
                                     </tr>
@@ -186,12 +186,25 @@
             <div class="mobile-pane show-on-sm" id="mob-tab-3"></div>
 
             <ul class="nav nav-tabs show-on-sm mobile-nav">
-              <li>
-                  <select class="or choose-by-job" onchange="pickJob()"></select>
-              </li>
-              <li>
-                  <select class="choose-by-country" onchange="pickCountry()"></select>
-              </li>
+                <div class="currency-mobile">
+                    <button class="mobile pound active" onclick="changeCurrency(1, '£', 'pound');">
+                        <i class="fas fa-pound-sign"></i>
+                    </button>
+                    <button class="mobile dollar" onclick="changeCurrency(1.2654, '$', 'dollar');">
+                        <i class="fas fa-dollar-sign"></i>
+                    </button>
+                    <button class="mobile euro" onclick="changeCurrency(1.14, '€', 'euro');">
+                        <i class="fas fa-euro-sign"></i>
+                    </button>
+                </div>
+                <div class="listers">
+                    <li>
+                        <select class="or choose-by-job" onchange="pickJob()"></select>
+                    </li>
+                    <li>
+                        <select class="choose-by-country" onchange="pickCountry()"></select>
+                    </li>
+                </div>
             </ul>
             <footer id="footer" class="hide-on-sm">
                 <div class="container">
@@ -254,7 +267,11 @@
             <div class="sub-heading mb-20">Methodology</div>
             <p>We researched the top ten countries with the highest UK citizen immigration rate, and compared this with our survey of 1000 UK adults. As only 4.5% of participants expressed a desire to immigrate to a location outside of the countries used in this list, we excluded any further countries in our comparison.</p>
             <p>We used a number of authoritative websites, including nation-appropriate statistics offices, in order to produce a database of salaries and job benefits across a range of different positions. Data was cross-referenced where multiple data sets were available.</p>
-            <p>All salaries were listed before tax. If a salary was paid monthly, this was converted into annual wages. International salaries were converted into GBP using the conversion rate as at the date research began:</p>
+            <p>All salaries were listen before tax. All salaries were sourced at a yearly figure and available in Euros. They were then converted into other currencies using the conversion figures below.</p>
+            <p>Where 1 EUR (€):</p>
+            <p>GBP (£) = £0.88</p>
+            <p>USD ($) = $1.11</p>
+            <p>The cost of living was modified to use London as a base of 100.</p>
             <table class="table table-bordered">
                 <tr>
                     <th>$1 US Dollar</th>
