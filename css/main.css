@@ -66,14 +66,14 @@ a:focus {
   box-shadow: none !important;
 }
 .btn-yellow {
-  background: #f2e146;
+  border-radius: 9999px;
+  background: rgb(244, 238, 34);
   font-family: "nexa-bold";
   font-weight: bold;
   color: #2b3f4a;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   border: none;
   font-size: 20px;
-  border-radius: 0;
   padding: 10px 20px 5px 20px;
 }
 
@@ -1276,6 +1276,7 @@ input[type="radio"] .styled:checked + label::after {
     width: 200px;
   }
   .btn-yellow {
+    border-radius: 9999px;
     font-size: 17px;
   }
 
@@ -1486,12 +1487,9 @@ button {
   #search #header {
     height: 80px;
     padding: 0;
-    /* opacity: 0; */
   }
 
   #search .content {
-    /* overflow-x: none;
-    overflow-y: none; */
     position: relative;
     top: 0;
     bottom: 0;
@@ -1525,4 +1523,12 @@ button {
 
 .bs-caret .caret {
   color: #0f0a38 !important;
+}
+
+.filter-option {
+  color: #0f0a38 !important;
+}
+
+.left-logo {
+  transform: translateY(-9px);
 }

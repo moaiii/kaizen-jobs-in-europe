@@ -6,7 +6,8 @@
     "actual_weekly_hours_worked": 35,
     "average_paid_leave": 25,
     "average_income": 54048,
-    "score": 1
+    "score": 1,
+    "happiness": 24
   },
   {
     "name": "SPAIN",
@@ -15,7 +16,8 @@
     "actual_weekly_hours_worked": 40,
     "average_paid_leave": 22,
     "average_income": 33502,
-    "score": 5
+    "score": 5,
+    "happiness": 30
   },
   {
     "name": "SWEDEN",
@@ -24,7 +26,8 @@
     "actual_weekly_hours_worked": 40,
     "average_paid_leave": 25,
     "average_income": 47173,
-    "score": 2
+    "score": 2,
+    "happiness": 7
   },
   {
     "name": "GERMANY",
@@ -33,7 +36,8 @@
     "actual_weekly_hours_worked": 40,
     "average_paid_leave": 20,
     "average_income": 49580,
-    "score": 10
+    "score": 10,
+    "happiness": 17
   },
   {
     "name": "ITALY",
@@ -42,7 +46,8 @@
     "actual_weekly_hours_worked": 40,
     "average_paid_leave": 20,
     "average_income": 39205,
-    "score": 7
+    "score": 7,
+    "happiness": 36
   },
   {
     "name": "UNITED KINGDOM",
@@ -51,7 +56,8 @@
     "actual_weekly_hours_worked": 40,
     "average_paid_leave": 28,
     "average_income": 55529,
-    "score": 3
+    "score": 3,
+    "happiness": 15
   },
   {
     "name": "GREECE",
@@ -60,7 +66,8 @@
     "actual_weekly_hours_worked": 42,
     "average_paid_leave": 29,
     "average_income": 30281,
-    "score": 4
+    "score": 4,
+    "happiness": 82
   },
   {
     "name": "PORTUGAL",
@@ -69,7 +76,8 @@
     "actual_weekly_hours_worked": 40,
     "average_paid_leave": 22,
     "average_income": 30027,
-    "score": 8
+    "score": 8,
+    "happiness": 66
   },
   {
     "name": "REPUBLIC OF IRELAND",
@@ -78,7 +86,8 @@
     "actual_weekly_hours_worked": 40,
     "average_paid_leave": 20,
     "average_income": 30320,
-    "score": 12
+    "score": 12,
+    "happiness": 16
   },
   {
     "name": "NETHERLANDS",
@@ -87,7 +96,8 @@
     "actual_weekly_hours_worked": 40,
     "average_paid_leave": 20,
     "average_income": 48186,
-    "score": 11
+    "score": 11,
+    "happiness": 5
   },
   {
     "name": "CYPRUS",
@@ -96,7 +106,8 @@
     "actual_weekly_hours_worked": 40,
     "average_paid_leave": 28,
     "average_income": 36579,
-    "score": 6
+    "score": 6,
+    "happiness": 46
   },
   {
     "name": "SWITZERLAND",
@@ -105,6 +116,7 @@
     "actual_weekly_hours_worked": 42,
     "average_paid_leave": 20,
     "average_income": 92437,
-    "score": 9
+    "score": 9,
+    "happiness": 6
   }
 ]

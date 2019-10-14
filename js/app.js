@@ -198,7 +198,8 @@ function pickJob() {
     .countries.map(function(el) {
       return {
         name: el.country,
-        average_income: el.salary
+        average_income: el.salary,
+        score: el.score
       };
     })
     .map(function(el) {
@@ -216,6 +217,8 @@ function pickJob() {
   setTimeout(function() {
     checkMobile();
   }, 200);
+  debugger;
+  console.log({ specific_job_array });
 
   specific_job_table = specific_job_array;
   // console.log("SET specific_job_table", specific_job_table);
@@ -240,7 +243,7 @@ function pickCountry() {
   }
 
   if (!isMobile) {
-    $(".countryInfoMsg").hide();
+    // $(".countryInfoMsg").hide();
   }
 
   var country =
@@ -257,7 +260,7 @@ function pickCountry() {
       if (vv.country == country) {
         obj.country = vv.country;
         obj.salary = vv.salary;
-        // obj.score = vv.score;
+        obj.score = vv.score;
       }
     });
     specific_country_array.push(obj);
@@ -299,7 +302,7 @@ function pickCountry() {
 }
 
 function showTable(table, array) {
-  // console.log({ desired_table, array });
+  console.log({ desired_table, array });
 
   if ($.fn.DataTable.isDataTable("#countryTable")) {
     $("#countryTable")
@@ -330,8 +333,6 @@ function showTable(table, array) {
 
   if (table == "#countryTable") {
     $.each(array, function(i, v) {
-      console.log(v.name, v.score);
-
       $(" " + table + " tbody ").append(
         '<tr class=" ' +
           (v.name === "UNITED KINGDOM" ? "selected" : "") +
@@ -357,15 +358,19 @@ function showTable(table, array) {
           "<td>" +
           v.average_cost_of_living_index +
           "</td>" +
+          "<td>" +
+          Humanize.ordinal(v.happiness) +
+          "</td>" +
           "</tr>"
       );
     });
   } else {
     $.each(array, function(i, v) {
+      // console.log(v);
       $(" " + table + " tbody ").append(
         "<tr>" +
           "<td>" +
-          v.score +
+          // i +
           "</td>" +
           '<td><img class="flag" src="https://s3-eu-west-1.amazonaws.com/totallymoney/content/jobseurope/img/icons/' +
           v.name

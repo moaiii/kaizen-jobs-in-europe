@@ -139,7 +139,7 @@
                                       <div class="col-lg-4">
                                           <div class="fact">
                                               <span data-living-index></span>
-                                              <h4>Cost of living index score</h4>
+                                              <h4>Cost of Living Index Score</h4>
                                           </div>
                                       </div>
                                   </div>
@@ -154,23 +154,23 @@
                     <table id="countryTable" class="table" cellspacing="0" width="100%" style="display:none;">
                         <thead class="data-notice">
                             <tr>
-                                <th style="width:13%;"><span>Score</span></th>
+                                <th style="width:13%;"><span>Rank</span></th>
                                 <th style="width:22%;"><span>Country</span></th>
                                 <th style="width:13%;"><span>Salary</span></th>
                                 <th style="width:13%;"><span>Weekly hours worked*</span></th>
                                 <th style="width:13%;"><span>Paid Leave*</span></th>
                                 <th style="width:13%;"><span>Cost of Living Index</span> <a class="more-info" href="#" data-toggle="modal" data-target="#moreInfoModal"><i class="fa fa-question-circle"></i></a></th>
+                                <th style="width:13%;"><span>Happiness</span></th>
                             </tr>
                         </thead>
                         <tbody class="topspace"></tbody>
                     </table>
-                    <div class="countryInfoMsg hide-on-sm">*Data Represents average within country - not per job</div>
                     <div class="row">
                         <div class="col-lg-10 col-lg-offset-1">
                             <table id="jobsTable" class="table" cellspacing="0" width="100%" style="display:none;">
                                 <thead>
                                     <tr>
-                                        <th style="width:15%;"><span>Score</span></th>
+                                        <th style="width:15%;"><span></span></th>
                                         <th style="width:70%;"><span>Job</span></th>
                                         <th style="width:15%;"><span>Salary</span></th>
                                     </tr>
@@ -179,6 +179,7 @@
                             </table>
                         </div>
                     </div>
+                    <div class="countryInfoMsg hide-on-sm">*Data Represents average within country - not per job</div>
                 </div>
                 <a href="#" class="sources show-on-sm mt-20 mb-20 text-center" data-toggle="modal" data-target="#myModal">Sources & Methodology</a>
             </div>
@@ -272,24 +273,6 @@
             <p>GBP (£) = £0.88</p>
             <p>USD ($) = $1.11</p>
             <p>The cost of living was modified to use London as a base of 100.</p>
-            <table class="table table-bordered">
-                <tr>
-                    <th>$1 US Dollar</th>
-                    <th>£0.76 British Pounds</th>
-                </tr>
-                <tr>
-                    <th>€1 Euro</th>
-                    <th>£0.84 British Pounds</th>
-                </tr>
-                <tr>
-                    <th>1 SEK Swedish Krona</th>
-                    <th>£0.0951 British Pounds</th>
-                </tr>
-                <tr>
-                    <th>CHF1 Swiss Franc</th>
-                    <th>£0.77 British Pounds</th>
-                </tr>
-            </table>
             <p>Each of the metrics (salary, disposable income, working hours and holiday days) was given a score that showed how it compared to data from other countries or careers. </p>
             <p>These scores were then combined into a weighted index, showing each job and location’s score out of 10, allowing them to be ranked from best to worst.</p>
             <div class="sub-heading mb-20">Sources</div>
@@ -354,6 +337,7 @@
     <script src="https://cdn.datatables.net/1.10.12/js/dataTables.bootstrap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.11.2/js/bootstrap-select.min.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/numeral.js/1.4.5/numeral.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/humanize-plus/1.8.2/humanize.min.js"></script>
     <script type="text/javascript" src="./js/app.js"></script>
   </body>
 </html>
