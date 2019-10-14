@@ -74,7 +74,7 @@ a:focus {
   /* text-transform: uppercase; */
   border: none;
   font-size: 20px;
-  padding: 10px 20px 5px 20px;
+  padding: 1rem 3rem;
 }
 
 .btn-black {
@@ -1276,6 +1276,7 @@ input[type="radio"] .styled:checked + label::after {
     width: 200px;
   }
   .btn-yellow {
+    padding: 1rem 3rem;
     border-radius: 9999px;
     font-size: 17px;
   }
@@ -1343,7 +1344,7 @@ input[type="radio"] .styled:checked + label::after {
   height: 100%;
   display: flex;
   align-items: center;
-  overflow: hidden;
+  /* overflow: hidden; */
 }
 
 .right-panel {
@@ -1531,4 +1532,8 @@ button {
 
 .left-logo {
   transform: translateY(-9px);
+}
+
+.list-unstyled.row {
+  overflow: hidden;
 }
