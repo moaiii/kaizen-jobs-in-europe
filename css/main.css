@@ -1531,9 +1531,8 @@ button {
 }
 
 .left-logo {
-  transform: translateY(-9px);
-}
-
-.list-unstyled.row {
   overflow: hidden;
+}
+.left-logo a {
+  transform: translateY(-9px);
 }
